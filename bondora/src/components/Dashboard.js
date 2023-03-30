@@ -212,6 +212,5 @@ function DashboardContent() {
 }
 
 export default function Dashboard() {
-	dataSorter()
 	return <DashboardContent />;
 }
