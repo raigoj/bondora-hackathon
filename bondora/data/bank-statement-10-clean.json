@@ -1,0 +1,2036 @@
+{
+    "institutionId": "RABOBANK_RABONL2U",
+    "bankStatements": [
+        {
+            "accountId": "5ad119f2-6062-4439-8c21-3926c8c03a0c",
+            "transactions": {
+                "booked": [
+                    {
+                        "entryReference": "88",
+                        "endToEndId": "16-03-2023 13:33 1030000734039516",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T12:34:33.834493Z",
+                        "transactionAmount": {
+                            "amount": "-20.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "1164861491748472 1030000734039516 Bestelling klantnummer 116486149 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "DEUTNL2A",
+                        "internalTransactionId": "4c7319107b3d929a1757069dd4161530"
+                    },
+                    {
+                        "entryReference": "87",
+                        "endToEndId": "0020007935570762",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T12:32:33.615656Z",
+                        "transactionAmount": {
+                            "amount": "20.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**8f973bdced7502**"
+                        },
+                        "remittanceInformationUnstructured": "**a981983ac273fd**:Mw A **45a**:Gift",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "6bd03483009cc2a5123fc7022fa004af"
+                    },
+                    {
+                        "entryReference": "86",
+                        "endToEndId": "16-03-2023 12:36 0180307525046345",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T11:38:55.390687Z",
+                        "transactionAmount": {
+                            "amount": "-30.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "KCRM86NK7G7PV8321118F 0180307525046345 2062561994 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "bcd10c5ecd39773d52028baed872a82e"
+                    },
+                    {
+                        "entryReference": "85",
+                        "endToEndId": "16-03-2023 10:21 0180307522057415",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T10:22:14.273958Z",
+                        "transactionAmount": {
+                            "amount": "-30.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "VM8XRQP6ZDSTM2321118F 0180307522057415 2062532766 xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2AXXX",
+                        "internalTransactionId": "7ff212cb169bf691d5328d31d79e56e1"
+                    },
+                    {
+                        "entryReference": "84",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T09:48:06.746572Z",
+                        "transactionAmount": {
+                            "amount": "-100.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Mw A **45a**",
+                        "creditorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "4c54cb2cf84129dff1d0e546f288cfc6"
+                    },
+                    {
+                        "entryReference": "83",
+                        "endToEndId": "2287535730 Trannel International",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T09:46:38.77363Z",
+                        "transactionAmount": {
+                            "amount": "160.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Trustly Group AB",
+                        "debtorAccount": {
+                            "iban": "**2ace5abec03280**"
+                        },
+                        "remittanceInformationUnstructured": "2287535730 Trannel International",
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "RABONL2UXXX",
+                        "internalTransactionId": "9f42252fe965c2fcc77e5c65fe5e1b7c"
+                    },
+                    {
+                        "entryReference": "82",
+                        "endToEndId": "16-03-2023 10:09 0180307520054163",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T09:11:15.504789Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "DC37TVG4DMRSK2C21118F 0180307520054163 2062507443 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "0f0c1a034bbd240f4d00fb0ef917d8c3"
+                    },
+                    {
+                        "entryReference": "81",
+                        "endToEndId": "307509684337",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "bookingDateTime": "2023-03-16T08:59:19.25825Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Rabobank inzake Geldmaat",
+                        "debtorAccount": {
+                            "iban": "**6e1b402079a0c5**"
+                        },
+                        "remittanceInformationUnstructured": "810070 16-03-2023 09:58:42 Storting Pretorialaan 47B Rotterdam Pasnr 001 E. OEZDEMIR",
+                        "proprietaryBankTransactionCode": "119",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "dcbb901b3a44352be1fdd48fda3a6341"
+                    },
+                    {
+                        "entryReference": "80",
+                        "endToEndId": "15-03-2023 12:25 0180307426055760",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-15T12:26:19.283119Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "NZBBVZTRWHT4Q4C21118F 0180307426055760 2062001008 xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2AXXX",
+                        "internalTransactionId": "9f87792b0a7feb76bb136b5209b1a381"
+                    },
+                    {
+                        "entryReference": "79",
+                        "endToEndId": "0020007931913794",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-15T12:15:08.934856Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**a68894ff360767**"
+                        },
+                        "remittanceInformationUnstructured": "**c524135cd4498a**:**22eb27** eo:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "1e1c063059e39c977c340aab6690421a"
+                    },
+                    {
+                        "entryReference": "78",
+                        "endToEndId": "15-03-2023 10:17 1030000733721231",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-15T09:18:51.602198Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "1164861491747435 1030000733721231 Bestelling klantnummer 116486149 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "DEUTNL2A",
+                        "internalTransactionId": "57d37699a0ac66d028589257f4a63e86"
+                    },
+                    {
+                        "entryReference": "77",
+                        "endToEndId": "15-03-2023 09:18 0180307418133196",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-15T08:19:53.140686Z",
+                        "transactionAmount": {
+                            "amount": "-23.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "XNZNGX4L6JCWRP521118F 0180307418133196 2061907558 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "a79eb541cb544b1e63de4de70232439e"
+                    },
+                    {
+                        "entryReference": "76",
+                        "endToEndId": "COAXX610705071202303101923502037057",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-15T08:15:22.803202Z",
+                        "transactionAmount": {
+                            "amount": "73.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "BELASTINGDIENST",
+                        "debtorAccount": {
+                            "iban": "**0aa5918afe48ef**"
+                        },
+                        "remittanceInformationUnstructured": "MAAND MRT. NR. 134802020H3001 IB/PVV 2023 (OZDEMIR )",
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "86bd663315a10331439e269ded6c08b4"
+                    },
+                    {
+                        "entryReference": "75",
+                        "endToEndId": "14-03-2023 18:29 0180307336054870",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-14T17:31:14.285272Z",
+                        "transactionAmount": {
+                            "amount": "-100.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "KZSRX6VZ7W329C321118F 0180307336054870 2061590951 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "ba7c588a486c9bbf573c62376a9f7d24"
+                    },
+                    {
+                        "entryReference": "74",
+                        "endToEndId": "14-03-2023 18:20 0180307336052084",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-14T17:22:23.113885Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "MZBKQJFXB7C97F321118F 0180307336052084 2061585204 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "7ba13b46ec1439e51347478136f465a2"
+                    },
+                    {
+                        "entryReference": "72",
+                        "endToEndId": "14-03-2023 16:49 0180307333056054",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-14T15:52:07.753911Z",
+                        "transactionAmount": {
+                            "amount": "-100.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "W6247GSZ7W329C321118F 0180307333056054 2061534068 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "25abb97a1d6f5aa85e102e69903203e5"
+                    },
+                    {
+                        "entryReference": "71",
+                        "endToEndId": "14-03-2023 16:39 1030000733564254",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-14T15:41:36.181314Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "1164861491746903 1030000733564254 Bestelling klantnummer 116486149 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "DEUTNL2A",
+                        "internalTransactionId": "c4f3424e1679d080a8e4023cdb0fdad5"
+                    },
+                    {
+                        "entryReference": "70",
+                        "endToEndId": "14-03-2023 16:20 1030000733558615",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-14T15:22:43.843602Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "1164861491746886 1030000733558615 Bestelling klantnummer 116486149 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "DEUTNL2A",
+                        "internalTransactionId": "780ccbf02881d7e3e31c0c7e23002b7c"
+                    },
+                    {
+                        "entryReference": "68",
+                        "endToEndId": "14-03-2023 15:36 0180307331058752",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-14T14:38:37.481813Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "LB4JKJWSR9T73VB21118F 0180307331058752 2061499105 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "a1a97d84b551e6cefafe747be12e8563"
+                    },
+                    {
+                        "entryReference": "66",
+                        "endToEndId": "14-03-2023 15:31 0030013408273004",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-15",
+                        "bookingDateTime": "2023-03-14T14:33:16.681019Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**0a**",
+                        "creditorAccount": {
+                            "iban": "**3b6ee3ddc65f92**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "000618442287 0030013408273004 Kalan **67eb95d323a40d** Tikkie x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ABNANL2A",
+                        "internalTransactionId": "0579d2522cef84428f4bb90f484b1811"
+                    },
+                    {
+                        "entryReference": "73",
+                        "endToEndId": "3AFV36K",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-14T16:17:06.206205Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Inpay A/S",
+                        "debtorAccount": {
+                            "iban": "**16709c409daa7ddf**"
+                        },
+                        "remittanceInformationUnstructured": "Livescore Malta Limited 3AFV36K",
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "LHVBEE22",
+                        "internalTransactionId": "b2ea4bc74c4bec801441db8c7139471d"
+                    },
+                    {
+                        "entryReference": "69",
+                        "endToEndId": "14-03-2023 03:16 0370806966948083",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-14T15:17:13.019281Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Livescore Malta Limited via PAY.nl",
+                        "creditorAccount": {
+                            "iban": "**9aca68707a8405**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "2023503600Xb7e17 0370806966948083 15951310  xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "RABONL2UXXX",
+                        "internalTransactionId": "b5d8721adb9d94eafa7bd5a9f1f68261"
+                    },
+                    {
+                        "entryReference": "67",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-14T14:34:14.051521Z",
+                        "transactionAmount": {
+                            "amount": "-5.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Mw A **45a**",
+                        "creditorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "52b73fefc0ef910d31bd0eab4f7a6c91"
+                    },
+                    {
+                        "entryReference": "65",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-14T14:28:32.834479Z",
+                        "transactionAmount": {
+                            "amount": "-25.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**0ff12**",
+                        "creditorAccount": {
+                            "iban": "**70854b15e8624f**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "e9542be61a9b20207bc265c780e3fd1f"
+                    },
+                    {
+                        "entryReference": "64",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-14T14:26:36.215081Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Mw A **45a**",
+                        "creditorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "4d3d69effbc955ccc426b7ef89bbf903"
+                    },
+                    {
+                        "entryReference": "63",
+                        "endToEndId": "0020007928565268",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-14T13:25:21.977796Z",
+                        "transactionAmount": {
+                            "amount": "30.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "remittanceInformationUnstructured": "**2e51360a3eea96**:**3c03aba**:Bijdrage",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "6c28e30d08cfcba8887004f926b577a6"
+                    },
+                    {
+                        "entryReference": "62",
+                        "endToEndId": "174629392.749",
+                        "bookingDate": "2023-03-14",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-14T12:38:29.484756Z",
+                        "transactionAmount": {
+                            "amount": "500.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "TOTO Online B.V.",
+                        "debtorAccount": {
+                            "iban": "**1ebe2a04fb8330**"
+                        },
+                        "remittanceInformationUnstructured": "Ref. 174629392.749Uitbetaling wallet TOTO op 2023-03-13 20:49:44",
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "89f9f414ed4ac6564d82892862358b4a"
+                    },
+                    {
+                        "entryReference": "61",
+                        "endToEndId": "13-03-2023 04:08 1030000733308949",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-14",
+                        "bookingDateTime": "2023-03-13T16:09:15.461023Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "1164861491746011 1030000733308949 Bestelling klantnummer 116486149 xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "DEUTNL2AXXX",
+                        "internalTransactionId": "6f88a23731f6a97cf6a4b3de9653c918"
+                    },
+                    {
+                        "entryReference": "60",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "bookingDateTime": "2023-03-13T16:04:29.832881Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Hr **b89b6**",
+                        "debtorAccount": {
+                            "iban": "**2703f7561469a4**"
+                        },
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "696db8a167e9cf4c3596e730958c35d9"
+                    },
+                    {
+                        "entryReference": "59",
+                        "endToEndId": "13-03-2023 08:09 0180307216056514",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "bookingDateTime": "2023-03-13T07:10:35.406536Z",
+                        "transactionAmount": {
+                            "amount": "-25.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "JFFM87SG7G7PV8321118F 0180307216056514 2060854012 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "0ed04ca449d490fca62291955aa9c666"
+                    },
+                    {
+                        "entryReference": "58",
+                        "endToEndId": "0020007923421348",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "bookingDateTime": "2023-03-13T06:54:11.518513Z",
+                        "transactionAmount": {
+                            "amount": "25.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**a68894ff360767**"
+                        },
+                        "remittanceInformationUnstructured": "**fe657228f7b145**:Hr **197f8**:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "767e2f3b78c82501116c59135868b732"
+                    },
+                    {
+                        "entryReference": "54",
+                        "endToEndId": "11-03-2023 03:06 0180307032045458",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-13",
+                        "bookingDateTime": "2023-03-11T15:07:12.430642Z",
+                        "transactionAmount": {
+                            "amount": "-15.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "JK5NB5RVGW24J4C21118F 0180307032045458 2059923156 xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2AXXX",
+                        "internalTransactionId": "ff1a4891b55ec049a21866e52959953f"
+                    },
+                    {
+                        "entryReference": "51",
+                        "endToEndId": "11-03-2023 11:49 0180307023044476",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-13",
+                        "bookingDateTime": "2023-03-11T10:51:36.2392Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "HFX4T4R6N22Q49321118F 0180307023044476 2059748482 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "d0a2a2c35cf4f09b409d2d318dd86252"
+                    },
+                    {
+                        "entryReference": "57",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "bookingDateTime": "2023-03-11T17:31:48.707828Z",
+                        "transactionAmount": {
+                            "amount": "-3.40",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**6fe6929989b6a75182c1**",
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Betaalautomaat 18:31 pasnr. 001",
+                        "proprietaryBankTransactionCode": "2",
+                        "internalTransactionId": "aca96ce7698f3597b3ba87dc8607b963"
+                    },
+                    {
+                        "entryReference": "56",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "bookingDateTime": "2023-03-11T17:29:24.310661Z",
+                        "transactionAmount": {
+                            "amount": "-10.45",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "DIRK VDBROEK FIL4068 Rotterdam",
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Betaalautomaat 18:29 pasnr. 001",
+                        "proprietaryBankTransactionCode": "2",
+                        "internalTransactionId": "eccd9d5c3ea4ea0a5cad8e83581a7ef6"
+                    },
+                    {
+                        "entryReference": "55",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "bookingDateTime": "2023-03-11T17:05:31.878202Z",
+                        "transactionAmount": {
+                            "amount": "14.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw A **45a**",
+                        "debtorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "5a532bd22f135ff467d79416788cd704"
+                    },
+                    {
+                        "entryReference": "53",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "bookingDateTime": "2023-03-11T13:10:53.236756Z",
+                        "transactionAmount": {
+                            "amount": "-10.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Mw A **45a**",
+                        "creditorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "5e9f0199f9bb69940cfde3430e0c6756"
+                    },
+                    {
+                        "entryReference": "52",
+                        "endToEndId": "4062746659 Trannel International",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "bookingDateTime": "2023-03-11T13:08:29.168232Z",
+                        "transactionAmount": {
+                            "amount": "25.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Trustly Group AB",
+                        "debtorAccount": {
+                            "iban": "**2ace5abec03280**"
+                        },
+                        "remittanceInformationUnstructured": "4062746659 Trannel International",
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "RABONL2UXXX",
+                        "internalTransactionId": "f23631dff5867ea362e4a6ba49a9e222"
+                    },
+                    {
+                        "entryReference": "50",
+                        "endToEndId": "307010691365",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "bookingDateTime": "2023-03-11T09:35:56.132434Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Rabobank inzake Geldmaat",
+                        "debtorAccount": {
+                            "iban": "**6e1b402079a0c5**"
+                        },
+                        "remittanceInformationUnstructured": "811842 11-03-2023 10:35:20 Storting Beijerlandselaan 179B Rotterdam Pasnr 001 E. OEZDEMIR",
+                        "proprietaryBankTransactionCode": "119",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "b712fd40f27e724c20c38e205f2fa92a"
+                    },
+                    {
+                        "entryReference": "49",
+                        "endToEndId": "10-03-2023 12:17 0180306924043804",
+                        "bookingDate": "2023-03-10",
+                        "valueDate": "2023-03-10",
+                        "bookingDateTime": "2023-03-10T11:19:29.799296Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "ZTZKDPPF46XFX6321118F 0180306924043804 2059140856 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "0fe88f1f3c3bdc41ec59dfd144d19dc5"
+                    },
+                    {
+                        "entryReference": "48",
+                        "bookingDate": "2023-03-10",
+                        "valueDate": "2023-03-10",
+                        "bookingDateTime": "2023-03-10T11:14:27.710247Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Hr **ecb8**",
+                        "debtorAccount": {
+                            "iban": "**3c2ede50d9e193**"
+                        },
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "1dc65b2dba3e0af9853c071be3a5c22a"
+                    },
+                    {
+                        "entryReference": "47",
+                        "endToEndId": "10-03-2023 11:06 0180306922058453",
+                        "bookingDate": "2023-03-10",
+                        "valueDate": "2023-03-10",
+                        "bookingDateTime": "2023-03-10T10:08:57.030737Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "FWTH573NMK5FQ6321118F 0180306922058453 2059111410 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "3c262974ef83d188a0e489a7bb5c0d98"
+                    },
+                    {
+                        "entryReference": "46",
+                        "endToEndId": "0020007912656314",
+                        "bookingDate": "2023-03-10",
+                        "valueDate": "2023-03-10",
+                        "bookingDateTime": "2023-03-10T10:01:23.004216Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**a68894ff360767**"
+                        },
+                        "remittanceInformationUnstructured": "**27d4466f2b0d60**:Hr K Akg l:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "2140dbc3d6ecb1b360ab6d79a90738fa"
+                    },
+                    {
+                        "entryReference": "45",
+                        "endToEndId": "09-03-2023 05:35 0180306837126676",
+                        "bookingDate": "2023-03-09",
+                        "valueDate": "2023-03-10",
+                        "bookingDateTime": "2023-03-09T17:36:11.612917Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "SVFTKDLJ6JZQ8HG21118F 0180306837126676 2058717703 xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2AXXX",
+                        "internalTransactionId": "c7793c699105f8b48b636d31deabb37e"
+                    },
+                    {
+                        "entryReference": "44",
+                        "endToEndId": "0020007910616892",
+                        "bookingDate": "2023-03-09",
+                        "valueDate": "2023-03-09",
+                        "bookingDateTime": "2023-03-09T17:17:57.290057Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**8f973bdced7502**"
+                        },
+                        "remittanceInformationUnstructured": "**2e51360a3eea96**:**3c03aba**:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "aa706712a59a0c94e7935ec75acbfd45"
+                    },
+                    {
+                        "entryReference": "43",
+                        "endToEndId": "07-03-2023 16:29 0180306632041821",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-08",
+                        "bookingDateTime": "2023-03-07T15:30:45.016392Z",
+                        "transactionAmount": {
+                            "amount": "-5.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "WZ4XZ9Q97G7PV8321118F 0180306632041821 2057449364 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "625be3cd627776fb19c3b29574fc8933"
+                    },
+                    {
+                        "entryReference": "42",
+                        "endToEndId": "07-03-2023 15:48 0180306631123729",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-08",
+                        "bookingDateTime": "2023-03-07T14:49:18.862203Z",
+                        "transactionAmount": {
+                            "amount": "-30.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "TM9P67S4M46XZP521118F 0180306631123729 2057427322 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "b2aea95770c4863797cd16bc4ce4b3a8"
+                    },
+                    {
+                        "entryReference": "41",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T11:25:46.322505Z",
+                        "transactionAmount": {
+                            "amount": "-25.52",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Mw A **45a**",
+                        "creditorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "068e30db93210d2070cad95cf11dcb98"
+                    },
+                    {
+                        "entryReference": "40",
+                        "endToEndId": "07-03-2023 10:57 0180306623137538",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T10:58:17.540487Z",
+                        "transactionAmount": {
+                            "amount": "-27.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "DX6CQZHLR9T73VB21118F 0180306623137538 2057327344 xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2AXXX",
+                        "internalTransactionId": "0001ee3839e916da221df0bc9233ef5d"
+                    },
+                    {
+                        "entryReference": "39",
+                        "endToEndId": "07-03-2023 11:04 1030000731457691",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T10:07:00.016599Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "1164861491733066 1030000731457691 Bestelling klantnummer 116486149 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "DEUTNL2A",
+                        "internalTransactionId": "52f8ea5a83e7518833d458b94fa55065"
+                    },
+                    {
+                        "entryReference": "38",
+                        "endToEndId": "07-03-2023 10:53 1030000731454668",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T09:56:08.269984Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "1164861491733057 1030000731454668 Bestelling klantnummer 116486149 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "DEUTNL2A",
+                        "internalTransactionId": "4ce704bc468da90115dae0fcd1199371"
+                    },
+                    {
+                        "entryReference": "37",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T09:49:03.17596Z",
+                        "transactionAmount": {
+                            "amount": "-975.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Mw A **45a**",
+                        "creditorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "785675e096e35959f437944bdf080163"
+                    },
+                    {
+                        "entryReference": "36",
+                        "endToEndId": "07-03-2023 10:05 0180306620043617",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T09:07:00.904507Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "ZZFL67TPB7C97F321118F 0180306620043617 2057287325 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "98be910ccda209b2436b40955e097fdd"
+                    },
+                    {
+                        "entryReference": "35",
+                        "endToEndId": "07-03-2023 09:57 0030013349209838",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T09:00:39.841432Z",
+                        "transactionAmount": {
+                            "amount": "-100.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**0a**",
+                        "creditorAccount": {
+                            "iban": "**3b6ee3ddc65f92**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "000615251913 0030013349209838 Kocakaya **38c858bdb944d1** Tikkie x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ABNANL2A",
+                        "internalTransactionId": "54e3f0a41f14ffacaaf574f405df7ea4"
+                    },
+                    {
+                        "entryReference": "34",
+                        "endToEndId": "07-03-2023 09:39 0180306619057372",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T08:40:37.794006Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "HG84LGDSCMRSK2C21118F 0180306619057372 2057279494 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "a4afa79f40faf456d47d300bf804c05a"
+                    },
+                    {
+                        "entryReference": "33",
+                        "endToEndId": "07-03-2023 09:22 0180306618046463",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T08:24:35.929559Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "KVJDQCWB46XFX6321118F 0180306618046463 2057274664 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "de37d51811230703a978129d58fbf817"
+                    },
+                    {
+                        "entryReference": "32",
+                        "endToEndId": "DK20 110522EA-01112161750",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "bookingDateTime": "2023-03-07T07:53:40.011899Z",
+                        "transactionAmount": {
+                            "amount": "1412.52",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "UWV",
+                        "debtorAccount": {
+                            "iban": "**f9730ba72d282a**"
+                        },
+                        "remittanceInformationUnstructured": "P0000100000000000134802020230306 ZWVR 01-02-23/28-02-23",
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "69a27d40330bf8a9b393f83a21ea3685"
+                    },
+                    {
+                        "entryReference": "31",
+                        "endToEndId": "06-03-2023 07:34 0180306515056312",
+                        "bookingDate": "2023-03-06",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-06T06:36:17.123991Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "JC728WRZV2ZRC2C21118F 0180306515056312 2056718605 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "b4c79b97c677a0b2010839fca68240bc"
+                    },
+                    {
+                        "entryReference": "30",
+                        "bookingDate": "2023-03-06",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-06T06:24:39.67569Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Hr **ecb8**",
+                        "debtorAccount": {
+                            "iban": "**3c2ede50d9e193**"
+                        },
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "314a9a85396b9b34670bab393933cba0"
+                    },
+                    {
+                        "entryReference": "29",
+                        "endToEndId": "05-03-2023 22:32 0180306445041194",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-05T21:34:31.042792Z",
+                        "transactionAmount": {
+                            "amount": "-11.56",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "B5W6XPRZM22Q49321118F 0180306445041194 2056609118 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "060a2a52c38f0ac3b51bc247be0d1a65"
+                    },
+                    {
+                        "entryReference": "28",
+                        "endToEndId": "05-03-2023 21:39 0180306443054639",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-05T20:41:35.724052Z",
+                        "transactionAmount": {
+                            "amount": "-35.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "KM3FJF8TXDSTM2321118F 0180306443054639 2056583518 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "6431a899e84ccc31b7ce2ab84190526d"
+                    },
+                    {
+                        "entryReference": "27",
+                        "endToEndId": "05-03-2023 20:52 0030013338796174",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-05T19:55:10.151674Z",
+                        "transactionAmount": {
+                            "amount": "-18.45",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**14b6971b**.nl via Takeaway.com",
+                        "creditorAccount": {
+                            "iban": "**c9be8a1b9e4611**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "VCUJHJ 0030013338796174 bestelling Inci via x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ABNANL2A",
+                        "internalTransactionId": "0b8a3f9d2fd1097677074b9044355168"
+                    },
+                    {
+                        "entryReference": "23",
+                        "endToEndId": "05-03-2023 19:06 0180306438127384",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-05T18:08:15.719458Z",
+                        "transactionAmount": {
+                            "amount": "-20.75",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "FVPT57J96JCWRP521118F 0180306438127384 2056487058 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "9c9617e2c44cb1acd117ee51293289b0"
+                    },
+                    {
+                        "entryReference": "21",
+                        "endToEndId": "04-03-2023 18:27 0180306336043171",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-04T17:29:18.741792Z",
+                        "transactionAmount": {
+                            "amount": "-25.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "TQRPWMGMB7C97F321118F 0180306336043171 2055825673 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "62ddfa993de7f44ed1108aedbc1066d0"
+                    },
+                    {
+                        "entryReference": "20",
+                        "endToEndId": "04-03-2023 18:22 0030013329245374",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-06",
+                        "bookingDateTime": "2023-03-04T17:23:47.896239Z",
+                        "transactionAmount": {
+                            "amount": "-19.23",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**14b6971b**.nl via Takeaway.com",
+                        "creditorAccount": {
+                            "iban": "**c9be8a1b9e4611**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "692652 0030013329245374 bestelling Angelos Pizza via x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ABNANL2A",
+                        "internalTransactionId": "0a3feb28aedd5c250f013cdb644bdef6"
+                    },
+                    {
+                        "entryReference": "26",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "bookingDateTime": "2023-03-05T19:54:32.893558Z",
+                        "transactionAmount": {
+                            "amount": "20.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**4508064**",
+                        "debtorAccount": {
+                            "iban": "**da8d005086392a**"
+                        },
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "314bb59cd6918e5d1ad9b549cdec7783"
+                    },
+                    {
+                        "entryReference": "25",
+                        "endToEndId": "0020007896320334",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "bookingDateTime": "2023-03-05T19:50:56.762822Z",
+                        "transactionAmount": {
+                            "amount": "25.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**e6b456cda55a21**"
+                        },
+                        "remittanceInformationUnstructured": "**70854b15e8624f**:Hr **15ab0**:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "845bddc54156fdcab592b549100d61ef"
+                    },
+                    {
+                        "entryReference": "24",
+                        "endToEndId": "0020007896136324",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "bookingDateTime": "2023-03-05T19:08:52.568033Z",
+                        "transactionAmount": {
+                            "amount": "20.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**4898d456df7307**"
+                        },
+                        "remittanceInformationUnstructured": "**505a7c4f7670b7**:**96218** eo:**eea01e6b**",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "bed28bd64fdea35207a7f8735e5f995d"
+                    },
+                    {
+                        "entryReference": "22",
+                        "endToEndId": "0020007895846366",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "bookingDateTime": "2023-03-05T17:58:42.888071Z",
+                        "transactionAmount": {
+                            "amount": "20.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "remittanceInformationUnstructured": "**fc9ba7a970e438**:ALTIPARMAK M:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "0dc70e222e1f46a1126d3d391a9c354a"
+                    },
+                    {
+                        "entryReference": "19",
+                        "endToEndId": "0020007892200600",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "bookingDateTime": "2023-03-04T17:03:38.088715Z",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**8f973bdced7502**"
+                        },
+                        "remittanceInformationUnstructured": "**2e51360a3eea96**:**3c03aba**:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "63aca032cc5596f2adbd84ac0424b785"
+                    },
+                    {
+                        "entryReference": "18",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-01",
+                        "bookingDateTime": "2023-03-02T04:22:44.954243Z",
+                        "transactionAmount": {
+                            "amount": "-3.70",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Kosten",
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Rabo BasisPakket                   Periode 01-03-2023 t/m 31-03-2023",
+                        "proprietaryBankTransactionCode": "93",
+                        "internalTransactionId": "225d2f263d0a5ffafe56b3feab257178"
+                    },
+                    {
+                        "entryReference": "17",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-01",
+                        "bookingDateTime": "2023-03-02T04:22:44.953877Z",
+                        "transactionAmount": {
+                            "amount": "-2.25",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Kosten",
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Stortingsapparaat (eigen storting) Periode 17-02-2023 t/m 28-02-2023",
+                        "proprietaryBankTransactionCode": "93",
+                        "internalTransactionId": "3a45b8a515b4fce0b0a7638c941ad7dd"
+                    },
+                    {
+                        "entryReference": "16",
+                        "bookingDate": "2023-02-28",
+                        "valueDate": "2023-02-28",
+                        "bookingDateTime": "2023-02-28T10:04:56.196261Z",
+                        "transactionAmount": {
+                            "amount": "-3.64",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "DIRK VDBROEK FIL4068 Rotterdam",
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Betaalautomaat 11:04 pasnr. 001",
+                        "proprietaryBankTransactionCode": "30",
+                        "internalTransactionId": "6b34aecb131c59026106266c22eb1aed"
+                    },
+                    {
+                        "entryReference": "15",
+                        "bookingDate": "2023-02-28",
+                        "valueDate": "2023-02-28",
+                        "bookingDateTime": "2023-02-28T02:01:50.140491Z",
+                        "transactionAmount": {
+                            "amount": "4.58",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw A **45a**",
+                        "debtorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "3d0341f3548dc699e6fe72cf43152af7"
+                    },
+                    {
+                        "entryReference": "14",
+                        "endToEndId": "27-02-2023 16:49 0180305833137960",
+                        "bookingDate": "2023-02-27",
+                        "valueDate": "2023-02-28",
+                        "bookingDateTime": "2023-02-27T15:51:37.439024Z",
+                        "transactionAmount": {
+                            "amount": "-5.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "FZ2TKJK76JZQ8HG21118F 0180305833137960 2052584009 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "f223b2cc7c2474f6c3ae9bc08cdf1283"
+                    },
+                    {
+                        "entryReference": "13",
+                        "endToEndId": "TX1075793230XT",
+                        "bookingDate": "2023-02-27",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-27T12:01:37.840189Z",
+                        "transactionAmount": {
+                            "amount": "5.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Optdeck Service Limite",
+                        "debtorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "TX1075793230XT Refund for Optdeck Service Limite ref:2050733111",
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "ADYBNL2A",
+                        "internalTransactionId": "6a13bb2693355dd5923c55840c5f7dd2"
+                    },
+                    {
+                        "entryReference": "12",
+                        "endToEndId": "26-02-2023 05:52 0180305737124965",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-26T17:54:30.740312Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "X23NK9DGC52H2C521118F 0180305737124965 2052133739 xui-69275727",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2AXXX",
+                        "internalTransactionId": "aae62c6b126dd2384f2bfdaad6ce3c49"
+                    },
+                    {
+                        "entryReference": "11",
+                        "endToEndId": "26-02-2023 18:40 0180305737044675",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-26T17:41:58.348993Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "RZ247JCVMJPMQPB21118F 0180305737044675 2052126698 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "ba57fc4b26d42ec9fddee0357bd5bb3e"
+                    },
+                    {
+                        "entryReference": "10",
+                        "endToEndId": "26-02-2023 18:29 0180305736040692",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-26T17:30:56.69228Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "N4JJSNK9MK5FQ6321118F 0180305736040692 2052120191 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "bf2f1287da4b07fe3b6bd4a4c05a3915"
+                    },
+                    {
+                        "entryReference": "8",
+                        "endToEndId": "26-02-2023 13:00 0180305726131138",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-26T12:02:14.120065Z",
+                        "transactionAmount": {
+                            "amount": "-100.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "XP56DS9DHC2DPK521118F 0180305726131138 2051899519 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "d7c98bc4b96c34d06451c71288571fd0"
+                    },
+                    {
+                        "entryReference": "7",
+                        "endToEndId": "26-02-2023 11:09 0180305722049952",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-26T10:11:18.660912Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "ZSVD3FSFB7C97F321118F 0180305722049952 2051840365 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "49b7922969984723e7221424eda7d6fa"
+                    },
+                    {
+                        "entryReference": "6",
+                        "endToEndId": "26-02-2023 10:39 0180305721120559",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-26T09:40:44.443937Z",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "LN84G3LL2R7CHK521118F 0180305721120559 2051827018 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "a289b4782bb6689a6f191c0d370836cf"
+                    },
+                    {
+                        "entryReference": "2",
+                        "endToEndId": "24-02-2023 17:13 0180305534135490",
+                        "bookingDate": "2023-02-24",
+                        "valueDate": "2023-02-27",
+                        "bookingDateTime": "2023-02-24T16:14:58.70144Z",
+                        "transactionAmount": {
+                            "amount": "-5.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Unibet",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "QQWKKM56SPSH8C521118F 0180305534135490 2050733111 x9654 pasnr.001",
+                        "purposeCode": "EPAY",
+                        "proprietaryBankTransactionCode": "102",
+                        "creditorAgent": "ADYBNL2A",
+                        "internalTransactionId": "70936770ed0cb85cab5f394c58304c8a"
+                    },
+                    {
+                        "entryReference": "9",
+                        "endToEndId": "0020007867957600",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-26",
+                        "bookingDateTime": "2023-02-26T17:06:39.845243Z",
+                        "transactionAmount": {
+                            "amount": "150.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "remittanceInformationUnstructured": "**38c858bdb944d1**:UT KOCAKAYA:Etentje",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "005c27e6af8d725412fc9c30b8ed106b"
+                    },
+                    {
+                        "entryReference": "5",
+                        "endToEndId": "0020007865959118",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-26",
+                        "bookingDateTime": "2023-02-26T09:04:55.33341Z",
+                        "transactionAmount": {
+                            "amount": "100.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Betaalverzoek Rabobank",
+                        "debtorAccount": {
+                            "iban": "**8f973bdced7502**"
+                        },
+                        "remittanceInformationUnstructured": "**1815d96a981e6b**:Hr **2220e77a**:Boodschappen",
+                        "proprietaryBankTransactionCode": "124",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "5c5d10567abb35ca03f63d4668b8754d"
+                    },
+                    {
+                        "entryReference": "4",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-26",
+                        "bookingDateTime": "2023-02-26T08:22:01.722702Z",
+                        "transactionAmount": {
+                            "amount": "-25.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**a60b278**",
+                        "creditorAccount": {
+                            "iban": "**6fb5e9a4225576**"
+                        },
+                        "debtorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "proprietaryBankTransactionCode": "547",
+                        "creditorAgent": "INGBNL2AXXX",
+                        "internalTransactionId": "c410cfdf8fae861118de0a9096b34c7d"
+                    },
+                    {
+                        "entryReference": "3",
+                        "endToEndId": "305708233687",
+                        "bookingDate": "2023-02-26",
+                        "valueDate": "2023-02-26",
+                        "bookingDateTime": "2023-02-26T07:43:31.594175Z",
+                        "transactionAmount": {
+                            "amount": "125.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Rabobank inzake Geldmaat",
+                        "debtorAccount": {
+                            "iban": "**6e1b402079a0c5**"
+                        },
+                        "remittanceInformationUnstructured": "811842 26-02-2023 08:42:32 Storting Beijerlandselaan 179B Rotterdam Pasnr 001 E. OEZDEMIR",
+                        "proprietaryBankTransactionCode": "119",
+                        "debtorAgent": "RABONL2U",
+                        "internalTransactionId": "5a08f015615736f4b52c28f90ef95cfe"
+                    },
+                    {
+                        "entryReference": "1",
+                        "bookingDate": "2023-02-22",
+                        "valueDate": "2023-02-22",
+                        "bookingDateTime": "2023-02-22T20:50:31.667446Z",
+                        "transactionAmount": {
+                            "amount": "5.00",
+                            "currency": "EUR"
+                        },
+                        "creditorAccount": {
+                            "iban": "**33f3041d881fa2**",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw A **45a**",
+                        "debtorAccount": {
+                            "iban": "**a981983ac273fd**"
+                        },
+                        "proprietaryBankTransactionCode": "541",
+                        "debtorAgent": "INGBNL2A",
+                        "internalTransactionId": "648389e77c138c5645bd7be0ac1aef7c"
+                    }
+                ],
+                "pending": []
+            },
+            "account": {
+                "resourceId": "mHO6Yg-V8_7440lpGRnfsclm7Ty0ryyevapS6t3seMCKoudfS4FLrMrg0272A8i2",
+                "iban": "**33f3041d881fa2**",
+                "currency": "EUR",
+                "ownerName": "**89bb19f**",
+                "status": "enabled"
+            },
+            "balances": [
+                {
+                    "balanceAmount": {
+                        "amount": "0.15",
+                        "currency": "EUR"
+                    },
+                    "balanceType": "expected",
+                    "lastChangeDateTime": "2023-03-17T11:03:07.881Z"
+                }
+            ]
+        }
+    ]
+}

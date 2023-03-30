@@ -1,0 +1,584 @@
+{
+    "institutionId": "ABNAMRO_ABNANL2A",
+    "bankStatements": [
+        {
+            "accountId": "f51b23f8-3ca7-4ce3-9b27-9bdcefa278bc",
+            "transactions": {
+                "booked": [
+                    {
+                        "bookingDate": "2022-10-25",
+                        "transactionAmount": {
+                            "amount": "-1.4",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "ABN AMRO Bank N.V.",
+                            "Rekening                    1,40"
+                        ],
+                        "proprietaryBankTransactionCode": "526",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "-1.4",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "105d4232613ccdbe89d94e8235e36dcd"
+                    },
+                    {
+                        "transactionId": "2297L2802683492S0WP",
+                        "bookingDate": "2022-10-24",
+                        "transactionAmount": {
+                            "amount": "-103.36",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**5785085275c9576**",
+                        "creditorAccount": {
+                            "iban": "**acd610c8c03851**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **acd610c8c03851**",
+                            "BIC: INGBNL2A",
+                            "****: **5785085275c9576**",
+                            "**5689fae5**: Van mama voor jou"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "0",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "3f91fe69b30dd9a7e138c3bffd860f4b"
+                    },
+                    {
+                        "transactionId": "2297I0612617099S0AQ",
+                        "bookingDate": "2022-10-24",
+                        "transactionAmount": {
+                            "amount": "103.36",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Stg. Pf. Zorg en Welzijn",
+                        "debtorAccount": {
+                            "iban": "**6b841c05c5a1cb**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **6b841c05c5a1cb**",
+                            "BIC: RABONL2U",
+                            "Naam: Stg. Pf. Zorg en Welzijn",
+                            "Omschrijving: Pensioen 10-2022 B",
+                            "R: 178.15 ZVW: 9.79 LH: 65.00 83",
+                            "80303",
+                            "Kenmerk: 8380303-20221024-001",
+                            "ID debiteur: PGGMNL22"
+                        ],
+                        "proprietaryBankTransactionCode": "654",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "103.36",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "3ce98ee4066b269efa942700c712a6d6"
+                    },
+                    {
+                        "transactionId": "2295K3045029929S0WP",
+                        "bookingDate": "2022-10-24",
+                        "transactionAmount": {
+                            "amount": "-27",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "0",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "4acac341b3a2cb53db517fdc26a7eaf4"
+                    },
+                    {
+                        "transactionId": "2294M3257670853S0WP",
+                        "bookingDate": "2022-10-21",
+                        "transactionAmount": {
+                            "amount": "-10",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "27",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "4523b2e1b3b2b109c926f3e372c6e8a3"
+                    },
+                    {
+                        "transactionId": "2294M3212568352S0WP",
+                        "bookingDate": "2022-10-21",
+                        "transactionAmount": {
+                            "amount": "-5",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "37",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "066cb33eeda4df74a35a00feb2bd09c5"
+                    },
+                    {
+                        "transactionId": "2294M3140766385S0WP",
+                        "bookingDate": "2022-10-21",
+                        "transactionAmount": {
+                            "amount": "-5",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "42",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "5265700e262bea6bd0eb8a14468cb4de"
+                    },
+                    {
+                        "transactionId": "2294M2849763366S0WP",
+                        "bookingDate": "2022-10-21",
+                        "transactionAmount": {
+                            "amount": "-5",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "0fcbb43df263b7ddac5c6d39b08bde0d"
+                    },
+                    {
+                        "transactionId": "2294M1705485862S0WP",
+                        "bookingDate": "2022-10-21",
+                        "transactionAmount": {
+                            "amount": "-20",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "52",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "a1b8ee3d367af42ecf4c4009701ef9ea"
+                    },
+                    {
+                        "transactionId": "2293K1638230160S0WP",
+                        "bookingDate": "2022-10-20",
+                        "transactionAmount": {
+                            "amount": "-40",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**5785085275c9576**",
+                        "creditorAccount": {
+                            "iban": "**acd610c8c03851**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **acd610c8c03851**",
+                            "BIC: INGBNL2A",
+                            "****: **5785085275c9576**",
+                            "Omschrijving: Terug kapsalon en",
+                            "benzineee en iets extra iloveyou"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "72",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "282de304f9c791fdc0065fb09e204120"
+                    },
+                    {
+                        "transactionId": "2293H2634746842S0AQ",
+                        "bookingDate": "2022-10-20",
+                        "transactionAmount": {
+                            "amount": "112",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "BELASTINGDIENST",
+                        "debtorAccount": {
+                            "iban": "**fb2c144dc43ead**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **fb2c144dc43ead**",
+                            "BIC: INGBNL2A",
+                            "****: BELASTINGDIENST",
+                            "Omschrijving: MAAND NOV. NR. 252",
+                            "007979T200013 VOORSCHOT ZORGTOES",
+                            "LAG 2022 (OOSTROM ) MEER INFO OP",
+                            " WWW.TOESLAGEN.NL",
+                            "Kenmerk: COAXX238866595202210171"
+                        ],
+                        "proprietaryBankTransactionCode": "654",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "112",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "22daafa8f09b6ee8cb1522d18ea25e06"
+                    },
+                    {
+                        "transactionId": "2286O4148909486S0WP",
+                        "bookingDate": "2022-10-13",
+                        "transactionAmount": {
+                            "amount": "-1.47",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "0",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "502f17d747396a3a40c1b5793ef47dd8"
+                    },
+                    {
+                        "transactionId": "2268T1259961886S0WP",
+                        "bookingDate": "2022-09-26",
+                        "transactionAmount": {
+                            "amount": "-90",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "1.47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "486500fb8e06d9a89e7c3d426f0c3a50"
+                    },
+                    {
+                        "transactionId": "2267B5300760472S0WP",
+                        "bookingDate": "2022-09-26",
+                        "transactionAmount": {
+                            "amount": "-100",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "91.47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "581da67f706c25c953ee1080500087af"
+                    },
+                    {
+                        "transactionId": "2267A3617336474S0PS",
+                        "bookingDate": "2022-09-26",
+                        "transactionAmount": {
+                            "amount": "-900",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**95e826ca1eb701**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Periodieke overb.",
+                            "IBAN: **95e826ca1eb701**",
+                            "BIC: ABNANL2A",
+                            "Naam: Spaar KTM",
+                            "**5689fae5**: Spaar, maandelijks"
+                        ],
+                        "proprietaryBankTransactionCode": "411",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "191.47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "5599bb3e0e6a860559b711949a3dca6b"
+                    },
+                    {
+                        "transactionId": "2266K5210232683S0WP",
+                        "bookingDate": "2022-09-23",
+                        "transactionAmount": {
+                            "amount": "-189",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "Naam: Payment"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "1091.47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "dac1d645ef380965a988a05b95d335dc"
+                    },
+                    {
+                        "transactionId": "2266J1949422850S0WP",
+                        "bookingDate": "2022-09-23",
+                        "transactionAmount": {
+                            "amount": "431",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "TIJN OOSTROM",
+                        "debtorAccount": {
+                            "iban": "**730eb49714351e**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **730eb49714351e**",
+                            "BIC: ABNANL2A",
+                            "****: TIJN OOSTROM"
+                        ],
+                        "proprietaryBankTransactionCode": "658",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "1280.47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "5af965ceca4ae1cd7b976b6b35e0dc9c"
+                    },
+                    {
+                        "transactionId": "2263A3553496339S0PS",
+                        "bookingDate": "2022-09-23",
+                        "transactionAmount": {
+                            "amount": "-184",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "TIJN OOSTROM",
+                        "creditorAccount": {
+                            "iban": "**6d5835dac9961b**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Periodieke overb.",
+                            "IBAN: **6d5835dac9961b**",
+                            "BIC: ABNANL2A",
+                            "****: Verzekering",
+                            "**5689fae5**: Verzekering p/m"
+                        ],
+                        "proprietaryBankTransactionCode": "411",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "849.47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "89c6a4cba81224726cd052eeb7f4c975"
+                    },
+                    {
+                        "transactionId": "2266H1657364025S0AQ",
+                        "bookingDate": "2022-09-23",
+                        "transactionAmount": {
+                            "amount": "932.87",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "DUO Hoofdrekening",
+                        "debtorAccount": {
+                            "iban": "**749f6036782f22**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **749f6036782f22**",
+                            "BIC: INGBNL2A",
+                            "****: DUO Hoofdrekening",
+                            "Omschrijving: 1010077681583013 M",
+                            "aandbetaling Studiefinanciering",
+                            "maand 09/2022",
+                            "Kenmerk: 1010077681583013"
+                        ],
+                        "proprietaryBankTransactionCode": "654",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "1033.47",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "5854f40755b2cc7e26034ac3e2ab78e0"
+                    },
+                    {
+                        "transactionId": "2265H3541130429S0AQ",
+                        "bookingDate": "2022-09-22",
+                        "transactionAmount": {
+                            "amount": "100.6",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Stg. Pf. Zorg en Welzijn",
+                        "debtorAccount": {
+                            "iban": "**6b841c05c5a1cb**"
+                        },
+                        "remittanceInformationUnstructuredArray": [
+                            "SEPA Overboeking",
+                            "IBAN: **6b841c05c5a1cb**",
+                            "BIC: RABONL2U",
+                            "Naam: Stg. Pf. Zorg en Welzijn",
+                            "Omschrijving: Pensioen 09-2022 B",
+                            "R: 173.47 ZVW: 9.54 LH: 63.33 83",
+                            "80303",
+                            "Kenmerk: 8380303-20220922-001",
+                            "ID debiteur: PGGMNL22"
+                        ],
+                        "proprietaryBankTransactionCode": "654",
+                        "balanceAfterTransaction": {
+                            "balanceAmount": {
+                                "amount": "100.6",
+                                "currency": "EUR"
+                            },
+                            "balanceType": "interimBooked"
+                        },
+                        "internalTransactionId": "e6a27c401dc9b05969904c296a531950"
+                    }
+                ],
+                "pending": []
+            },
+            "account": {
+                "iban": "**6993999d623562**",
+                "currency": "EUR",
+                "ownerName": "TIJN OOSTROM"
+            },
+            "balances": [
+                {
+                    "balanceAmount": {
+                        "amount": "-1.4",
+                        "currency": "EUR"
+                    },
+                    "balanceType": "expected"
+                }
+            ]
+        }
+    ]
+}

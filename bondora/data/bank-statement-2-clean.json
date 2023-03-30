@@ -1,0 +1,404 @@
+{
+    "institutionId": "ING_INGBNL2A",
+    "bankStatements": [
+        {
+            "accountId": "02591c57-7f97-4d56-9778-a3011a05d702",
+            "transactions": {
+                "booked": [
+                    {
+                        "transactionId": "010304011755753240000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-19",
+                        "transactionAmount": {
+                            "amount": "100.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Hr **5e1f0d75b3b8da679956f**",
+                        "debtorAccount": {
+                            "iban": "**6982d4b507c98b**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **b4cc53827bd0c80dfd627a80**<br>IBAN: **6982d4b507c98b**<br>Datum/Tijd: 19-03-2023 12:37:22<br>Valutadatum: 19-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "8dfa0a27ed9791a5ff365ab8f57363b7"
+                    },
+                    {
+                        "transactionId": "010304009511194780000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-18",
+                        "transactionAmount": {
+                            "amount": "-24.25",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**c27f6242**",
+                        "remittanceInformationUnstructured": "**ba5c** AGF GEMERT NLD<br>Pasvolgnr: 001 17-03-2023 10:35<br>Transactie: B30016 Term: M5HG7J<br>Valutadatum: 18-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "7aaee90858036e99d2fc605546d5dbf5"
+                    },
+                    {
+                        "transactionId": "010304009510284040000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-18",
+                        "transactionAmount": {
+                            "amount": "-1.27",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**91bbdae9** Fr 8786",
+                        "remittanceInformationUnstructured": "Albert **a** Fr 8786 GEMERT NLD<br>Pasvolgnr: 001 17-03-2023 10:28<br>Transactie: B10014 Term: H3PV42<br>Valutadatum: 18-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "3e8ef7cbebe06e1d9f6987fdf1738f07"
+                    },
+                    {
+                        "transactionId": "010304009507519540000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-18",
+                        "transactionAmount": {
+                            "amount": "-2.60",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**91bbdae9** Fr 8786",
+                        "remittanceInformationUnstructured": "Albert **a** Fr 8786 GEMERT NLD<br>Pasvolgnr: 001 17-03-2023 10:27<br>Transactie: B00013 Term: 708D9R<br>Valutadatum: 18-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "f4a6f5efd717bb42fd549a757496a490"
+                    },
+                    {
+                        "transactionId": "010304008451175780000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-17",
+                        "transactionAmount": {
+                            "amount": "-90.00",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "GELDMAAT KAPELAANSTRAAT 2 GEMERT<br>Pasvolgnr: 001 16-03-2023 18:50<br>Transactie: B80012 Term: 912284<br>Valutadatum: 17-03-2023",
+                        "proprietaryBankTransactionCode": "Geldautomaat",
+                        "internalTransactionId": "b7168a77635d680c16459d479b70effb"
+                    },
+                    {
+                        "transactionId": "010304008362178250000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-17",
+                        "transactionAmount": {
+                            "amount": "-5.79",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NETTORAMA 19",
+                        "remittanceInformationUnstructured": "NETTORAMA 19 GEMERT NLD<br>Pasvolgnr: 001 16-03-2023 07:31<br>Transactie: B50007 Term: 236W3C<br>Valutadatum: 17-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "bd467bd60824907aa3a5c98b78272080"
+                    },
+                    {
+                        "transactionId": "010304008410489240000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-17",
+                        "transactionAmount": {
+                            "amount": "-1.17",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**b8b37a27b1df945**",
+                        "remittanceInformationUnstructured": "**b8b37a27b1df945** GEMERT NLD<br>Pasvolgnr: 001 16-03-2023 14:13<br>Transactie: B00009 Term: 2Q5DHK<br>Valutadatum: 17-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "aae930ac0620db28728aaa29304f7e7c"
+                    },
+                    {
+                        "transactionId": "010304008436543380000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-17",
+                        "transactionAmount": {
+                            "amount": "-5.04",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**91bbdae9** Fr8786",
+                        "remittanceInformationUnstructured": "**91bbdae9** Fr8786 GEMERT NLD<br>Pasvolgnr: 001 16-03-2023 16:57<br>Transactie: B40011 Term: 1V6B8K<br>Valutadatum: 17-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "8642c285dc1d6257456459f1ecf491b4"
+                    },
+                    {
+                        "transactionId": "010304008379106110000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-17",
+                        "transactionAmount": {
+                            "amount": "-48.25",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**c27f6242**",
+                        "remittanceInformationUnstructured": "**ba5c** AGF GEMERT NLD<br>Pasvolgnr: 001 16-03-2023 10:32<br>Transactie: B30008 Term: M5HG7J<br>Valutadatum: 17-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "ce3c989c16775a78a712ac4059ba8ddb"
+                    },
+                    {
+                        "transactionId": "010304008462546120000000",
+                        "endToEndId": "16-03-2023 21:11 0370997462246810",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-1.60",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Webguru via PAY.nl",
+                        "creditorAccount": {
+                            "iban": "**9aca68707a8405**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Webguru via PAY.nl<br>Omschrijving: 2025319173X4246b<br>0370997462246810 Webguru<br>IBAN: **9aca68707a8405**<br>Kenmerk: 16-03-2023 21:11 0370997462246810<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "440e4cd13bb19bd576a8a3878cb3abbb"
+                    },
+                    {
+                        "transactionId": "010304008445288580000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "27.87",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "AC OTGENS",
+                        "debtorAccount": {
+                            "iban": "**b6aba6cfbb1457**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: AC OTGENS<br>Omschrijving: 300 - 27,87 is 275<br>IBAN: **b6aba6cfbb1457**<br>Datum/Tijd: 16-03-2023 18:15:00<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "7327cdfabfa7f11f3dc493ad68c20453"
+                    },
+                    {
+                        "transactionId": "010304008443361430000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "90.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**12cfa23d99e12fgc2c6**",
+                        "debtorAccount": {
+                            "iban": "**7208b961e395ab**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **12cfa23d99e12fgc2c6**<br>IBAN: **7208b961e395ab**<br>Datum/Tijd: 16-03-2023 17:47:17<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "ff0e32512662465d87bb2e3902139f8a"
+                    },
+                    {
+                        "transactionId": "010304007309499240000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-130.00",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "GELDMAAT GEYSENDORFFERSTR<br>Pasvolgnr: 001 15-03-2023 17:02<br>Transactie: B50006 Term: 912995<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Geldautomaat",
+                        "internalTransactionId": "422f9ef7e8e3f4d705351816dcc33260"
+                    },
+                    {
+                        "transactionId": "010304007305685620000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-12.70",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**6984368**",
+                        "remittanceInformationUnstructured": "COSY CORNER HELMOND NLD<br>Pasvolgnr: 001 15-03-2023 16:39<br>Transactie: B70005 Term: QD6QP5<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "67d2a84db011154628b72facd2b2ecba"
+                    },
+                    {
+                        "transactionId": "010304007286004170000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-40.25",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**c27f6242**",
+                        "remittanceInformationUnstructured": "**ba5c** AGF GEMERT NLD<br>**a5ddc**: 001 15-03-2023 14:28<br>Transactie: B70004 Term: M5HG7J<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "6895660d93513745d044794f7a8530f8"
+                    },
+                    {
+                        "transactionId": "010304007272113860000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-9.12",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**91bbdae9** Fr8786",
+                        "remittanceInformationUnstructured": "**91bbdae9** Fr8786 GEMERT NLD<br>Pasvolgnr: 001 15-03-2023 12:57<br>Transactie: B30001 Term: 1V6B8K<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Betaalautomaat",
+                        "internalTransactionId": "50858c88e4461b63f52fd6251650b60a"
+                    },
+                    {
+                        "transactionId": "010304008361034390000000",
+                        "endToEndId": "16-03-2023 06:16 0051100270435051",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "55.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "ING Bank NV Betaalverzoek",
+                        "debtorAccount": {
+                            "iban": "**0f5ecbf9b5b66d**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: ING Bank NV Betaalverzoek<br>Omschrijving: Betaling van A.H.<br>Rutten **6223854839888b** Eten<br>IBAN: **0f5ecbf9b5b66d**<br>Kenmerk: 16-03-2023 06:16 0051100270435051<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "b5f40e3a8bd130ad86874be30812b7d1"
+                    },
+                    {
+                        "transactionId": "010304007289390770000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-15",
+                        "transactionAmount": {
+                            "amount": "150.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**12cfa23d99e12fgc2c6**",
+                        "debtorAccount": {
+                            "iban": "**7208b961e395ab**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **12cfa23d99e12fgc2c6**<br>IBAN: **7208b961e395ab**<br>Datum/Tijd: 15-03-2023 14:50:30<br>Valutadatum: 15-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "e89b1ff1e080336ed06b55ac04138047"
+                    },
+                    {
+                        "transactionId": "010304006193887250000000",
+                        "endToEndId": "14-03-2023 20:31 0051100269792136",
+                        "bookingDate": "2023-03-14",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "ING Bank NV Betaalverzoek",
+                        "debtorAccount": {
+                            "iban": "**0f5ecbf9b5b66d**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: ING Bank NV Betaalverzoek<br>Omschrijving: Betaling van A.H.<br>Rutten **6223854839888b** Uiteten<br>IBAN: **0f5ecbf9b5b66d**<br>Kenmerk: 14-03-2023 20:31 0051100269792136<br>Valutadatum: 14-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "57448f82da2183f72152d641a509b54f"
+                    },
+                    {
+                        "transactionId": "010304006088940740000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-14",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**12730**",
+                        "creditorAccount": {
+                            "iban": "**55d2d61cf9d015**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **12730**<br>IBAN: **55d2d61cf9d015**<br>Datum/Tijd: 14-03-2023 02:06:50<br>Valutadatum: 14-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "fc31130dd872994cef749e743e8122b2"
+                    },
+                    {
+                        "transactionId": "010304006088235680000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-14",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**73052eff**",
+                        "debtorAccount": {
+                            "iban": "**2e3193aa7601a9**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **73052eff**<br>IBAN: **2e3193aa7601a9**<br>Datum/Tijd: 14-03-2023 01:55:52<br>Valutadatum: 14-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "7b04153a1fb1d7f266e9b9b4d3ff9252"
+                    },
+                    {
+                        "transactionId": "010304005064435630000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "-50.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**12730**",
+                        "creditorAccount": {
+                            "iban": "**55d2d61cf9d015**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **12730**<br>IBAN: **55d2d61cf9d015**<br>Datum/Tijd: 13-03-2023 23:26:29<br>Valutadatum: 13-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "7d60013c89689562f019525bd4655599"
+                    },
+                    {
+                        "transactionId": "010304005054628130000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**12cfa23d99e12fgc2c6**",
+                        "debtorAccount": {
+                            "iban": "**7208b961e395ab**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **12cfa23d99e12fgc2c6**<br>IBAN: **7208b961e395ab**<br>Datum/Tijd: 13-03-2023 20:04:55<br>Valutadatum: 13-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "9b39768a247529813943ac2cd9a36d45"
+                    },
+                    {
+                        "transactionId": "010303999152269570000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-07",
+                        "transactionAmount": {
+                            "amount": "-100.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**12730**",
+                        "creditorAccount": {
+                            "iban": "**55d2d61cf9d015**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **12730**<br>IBAN: **55d2d61cf9d015**<br>Datum/Tijd: 07-03-2023 02:57:02<br>Valutadatum: 07-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "2c56560d825fecdaa9a28c0e6d6652c5"
+                    },
+                    {
+                        "transactionId": "010303999155576720000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-07",
+                        "transactionAmount": {
+                            "amount": "100.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**73052eff**",
+                        "debtorAccount": {
+                            "iban": "**2e3193aa7601a9**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: *.*.*. **f**<br>Omschrijving: Lening<br>IBAN: **2e3193aa7601a9**<br>Datum/Tijd: 07-03-2023 02:52:45<br>Valutadatum: 07-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "c4acf243d5160d59352bf816ce13959d"
+                    }
+                ],
+                "pending": [
+                    {
+                        "transactionId": "010304011759834880000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "valueDate": "2023-03-19",
+                        "transactionAmount": {
+                            "amount": "-100.00",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "GELDMAAT KAPELAANSTRAAT 2 GEMERT<br>Pasvolgnr: 001 19-03-2023 13:06<br>Transactie: B80017 Term: 912284",
+                        "proprietaryBankTransactionCode": "Geldautomaat"
+                    }
+                ]
+            },
+            "account": {
+                "resourceId": "66be9041-24c3-4414-a629-43927f7260d8",
+                "iban": "**925be858280526**",
+                "currency": "EUR",
+                "name": "Hr **cef64**",
+                "product": "Betaalrekening"
+            },
+            "balances": [
+                {
+                    "balanceAmount": {
+                        "amount": "0.83",
+                        "currency": "EUR"
+                    },
+                    "balanceType": "expected",
+                    "lastChangeDateTime": "2023-03-19T18:31:32.969Z"
+                }
+            ]
+        }
+    ]
+}

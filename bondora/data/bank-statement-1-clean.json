@@ -1,0 +1,1445 @@
+{
+    "institutionId": "SNS_BANK_SNSBNL2A",
+    "bankStatements": [
+        {
+            "accountId": "b00e06b8-bedc-4f87-9d2a-65edfca225b0",
+            "transactions": {
+                "booked": [
+                    {
+                        "transactionId": "IPI1746655000102622545500001",
+                        "entryReference": "20230317-85662",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-15",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**7bad38eb020**",
+                        "creditorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "2c9fe455a0816176ec27c87264819dd9"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102622509900001",
+                        "entryReference": "20230317-83501",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-20",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "A DonajgrodzkiR",
+                        "creditorAccount": {
+                            "iban": "**e9ddb1a92ef0e8a3**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "2f47b124c806532f9b28a257265dc700"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102622451400001",
+                        "entryReference": "20230317-81695",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-30",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**ec52a220824ec987fd**",
+                        "creditorAccount": {
+                            "iban": "**6ea22c13dd9e01**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "2cbcb208f542b2f61c5621a236b31f30"
+                    },
+                    {
+                        "transactionId": "3075W0440688998S0WP",
+                        "entryReference": "20230317-73567",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "valueDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "70",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "B A **b4b9312**",
+                        "debtorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "remittanceInformationUnstructured": "**3bb593f52c83d4**-**843fda65c52c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "c7278782c079d0f885a7897b4ceef852"
+                    },
+                    {
+                        "transactionId": "SCT2023031599673000000006104",
+                        "entryReference": "20230315-1651789",
+                        "endToEndId": "15-03-2023 15:28 0140000750787497",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "transactionAmount": {
+                            "amount": "-15",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Revolut Bank UAB",
+                        "creditorAccount": {
+                            "iban": "**9850b64f7197341489**"
+                        },
+                        "remittanceInformationUnstructured": "6UOX1MI 0140000750787497 www.revolut.com",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "6811ee403765372ce3ff3379375190ff"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102562299900001",
+                        "entryReference": "20230315-1622260",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "transactionAmount": {
+                            "amount": "-5",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "** R **a7ceeaf6**",
+                        "creditorAccount": {
+                            "iban": "**3a7ba3508a38a3**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "4ab2c2ed126bf6d9c8d1fada72220093"
+                    },
+                    {
+                        "transactionId": "3074O0356096347S0WP",
+                        "entryReference": "20230315-1585977",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-15",
+                        "valueDate": "2023-03-15",
+                        "transactionAmount": {
+                            "amount": "20",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "B A **b4b9312**",
+                        "debtorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "remittanceInformationUnstructured": "**3bb593f52c83d4**-**843fda65c52c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "f618d9c5cd128371f3827ea9eb2b4965"
+                    },
+                    {
+                        "transactionId": "SCT2023031399558000000014361",
+                        "entryReference": "20230313-1977665",
+                        "endToEndId": "13-03-2023 20:21 0180307240051013",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "-10",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "One Casino Limited",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "JBSB5K94LRN4Q4C21GTIG 0180307240051013 ONE23222391",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "edc72338a6f4ce5aa8bdb0a44d4b507f"
+                    },
+                    {
+                        "transactionId": "SCT2023031399558000000011764",
+                        "entryReference": "20230313-1967528",
+                        "endToEndId": "13-03-2023 20:12 1030000733365603",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "-5",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "remittanceInformationUnstructured": "1118775941746250 1030000733365603 Bestelling klantnummer 111877594",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "11d3adf9b004faef0a8759ffd812752b"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102495525300001",
+                        "entryReference": "20230313-1953092",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "-15",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "** R **a7ceeaf6**",
+                        "creditorAccount": {
+                            "iban": "**3a7ba3508a38a3**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "0949c8a550ff33e7fb56099cd8ab72ea"
+                    },
+                    {
+                        "transactionId": "CPUE2CU9D02C9DA7I08JOWWM3SSX",
+                        "entryReference": "20230313-1946675",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "30",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw BA **b4b9312**",
+                        "debtorAccount": {
+                            "iban": "**5ddbe5e8c77d21**"
+                        },
+                        "remittanceInformationUnstructured": "**5ddbe5e8c77d21**-Mw BA **b4b9312**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "06a1499d3c9ef5ddfd696d09e6cae4c2"
+                    },
+                    {
+                        "transactionId": "SCT2023031399549000000012262",
+                        "entryReference": "20230313-1688820",
+                        "endToEndId": "13-03-2023 17:19 0180307234040537",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "-15",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Betnation",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "ZB2V9XKP38QHBFG21FUR8 0180307234040537 vkWi5YLOqpURtk1b/mxOvg",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "5dd917b2110adde1f011b655f75b18d0"
+                    },
+                    {
+                        "transactionId": "CPU4N42XB4P8P0JX19AH0K441GNG",
+                        "entryReference": "20230313-1666648",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-13",
+                        "valueDate": "2023-03-13",
+                        "transactionAmount": {
+                            "amount": "15",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw R **a7ceeaf6**",
+                        "debtorAccount": {
+                            "iban": "**3a7ba3508a38a3**"
+                        },
+                        "remittanceInformationUnstructured": "**3a7ba3508a38a3**-Mw **876a65c56**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "7a3c22d8adc70de361929c5661e7a158"
+                    },
+                    {
+                        "transactionId": "SCT2023031299479000000004904",
+                        "entryReference": "20230312-849110",
+                        "endToEndId": "12-03-2023 15:51 0180307131131070",
+                        "bookingDate": "2023-03-12",
+                        "valueDate": "2023-03-12",
+                        "transactionAmount": {
+                            "amount": "-6",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Betcity",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "SSQXJ59M6CH3CH52YFUB 0180307131131070 MErpea/K2vLraF+vuLxFnA",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "c2aff4f2b57542dce359188d3d659143"
+                    },
+                    {
+                        "transactionId": "27GA92/388502",
+                        "entryReference": "20230312-821288",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-12",
+                        "valueDate": "2023-03-12",
+                        "transactionAmount": {
+                            "amount": "-6.87",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE   12.03.2023 15U36 KV005 BS077723 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "5028fd1be96cfd0d8f9d7ab5bb4c7657"
+                    },
+                    {
+                        "transactionId": "CPU51WPASNLFR8EKKS69VJAQZVV2",
+                        "entryReference": "20230312-801647",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-12",
+                        "valueDate": "2023-03-12",
+                        "transactionAmount": {
+                            "amount": "10",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**30e0b0048cad2**",
+                        "debtorAccount": {
+                            "iban": "**49aef3fb58f093**"
+                        },
+                        "remittanceInformationUnstructured": "**49aef3fb58f093**-Hr **2f46d070bd**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "a856ef5792aa9ab35ca93471091c5ef5"
+                    },
+                    {
+                        "transactionId": "SCT2023031199439000000004966",
+                        "entryReference": "20230311-1645366",
+                        "endToEndId": "11-03-2023 16:49 0180307033053240",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "transactionAmount": {
+                            "amount": "-15",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "One Casino Limited",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "PQ8HHTVJBBTP49321GTIG 0180307033053240 ONE23183143",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "7b82c47b29a3031224f768d0689ea25d"
+                    },
+                    {
+                        "transactionId": "4GRM80/446066",
+                        "entryReference": "20230311-1499639",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "transactionAmount": {
+                            "amount": "-12.27",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE   11.03.2023 16U00 KV005 BS126150 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "8cc491fab17a7d65f45542b8f2c32cf5"
+                    },
+                    {
+                        "transactionId": "CPU2EHIZADCKFS3X4IQYWL31ZJZL",
+                        "entryReference": "20230311-1473306",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "transactionAmount": {
+                            "amount": "5",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw R **a7ceeaf6**",
+                        "debtorAccount": {
+                            "iban": "**3a7ba3508a38a3**"
+                        },
+                        "remittanceInformationUnstructured": "**3a7ba3508a38a3**-Mw **876a65c56**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "095857a39eae2c0b48e8fb5bb2fdefbd"
+                    },
+                    {
+                        "transactionId": "CPU1YXTPKFKLA9N99IL3YJPC4IFZ",
+                        "entryReference": "20230311-1468672",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-11",
+                        "valueDate": "2023-03-11",
+                        "transactionAmount": {
+                            "amount": "25",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw R **a7ceeaf6**",
+                        "debtorAccount": {
+                            "iban": "**3a7ba3508a38a3**"
+                        },
+                        "remittanceInformationUnstructured": "**3a7ba3508a38a3**-Mw **876a65c56**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "473cb57be08812a0700c45036d8c8fed"
+                    },
+                    {
+                        "transactionId": "OCU0ZO/472858",
+                        "entryReference": "20230309-1710151",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-09",
+                        "valueDate": "2023-03-09",
+                        "transactionAmount": {
+                            "amount": "-1.99",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    9.03.2023 18U16 KV005 BS077717 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "457fe4950f62592343e6984dc840f83f"
+                    },
+                    {
+                        "transactionId": "SCT2023030999310000000005240",
+                        "entryReference": "20230309-1245838",
+                        "endToEndId": "09-03-2023 14:56 1030000732127280",
+                        "bookingDate": "2023-03-09",
+                        "valueDate": "2023-03-09",
+                        "transactionAmount": {
+                            "amount": "-20",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "remittanceInformationUnstructured": "1118775941735546 1030000732127280 Bestelling klantnummer 111877594",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "862939ae6fa930443b229b8d5b528565"
+                    },
+                    {
+                        "transactionId": "2743L4/699173",
+                        "entryReference": "20230309-1159815",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-09",
+                        "valueDate": "2023-03-09",
+                        "transactionAmount": {
+                            "amount": "-15.01",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "ESSO ALMERE           >ALMERE    9.03.2023 14U18 KV005 10036811 MCC:5541 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "65cd4eb0b3a01e2119c25374865d2358"
+                    },
+                    {
+                        "transactionId": "3068N0439012137S0WP",
+                        "entryReference": "20230309-1132500",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-09",
+                        "valueDate": "2023-03-09",
+                        "transactionAmount": {
+                            "amount": "67",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**a0570e4e**",
+                        "debtorAccount": {
+                            "iban": "**c8ed9ca7d20291**"
+                        },
+                        "remittanceInformationUnstructured": "**c8ed9ca7d20291**-**12cfa23d2c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "314d66b23da35698d98e0e24988b6208"
+                    },
+                    {
+                        "transactionId": "DOMREC17112791SEQ018497DAT20230307",
+                        "entryReference": "20230308-652131",
+                        "endToEndId": "52106198",
+                        "mandateId": "12000575",
+                        "creditorId": "NL47ZZZ524034240000",
+                        "bookingDate": "2023-03-08",
+                        "valueDate": "2023-03-08",
+                        "transactionAmount": {
+                            "amount": "-32.9",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NATIONALE-NEDERLANDEN",
+                        "creditorAccount": {
+                            "iban": "**f8f931ded32d99**"
+                        },
+                        "remittanceInformationUnstructured": "/IVSB/INGBNL2A/**56529430e95e75**/ING Autoverzekering + Polisnr: 71614581 + Periode: 08-03-2023 - 07-04-2023",
+                        "bankTransactionCode": "PMNT-RDDT-ESDD",
+                        "proprietaryBankTransactionCode": "FEIC",
+                        "internalTransactionId": "6987260074bcda68d2b2e672a693a5f8"
+                    },
+                    {
+                        "transactionId": "SCT2023030799192000000003172",
+                        "entryReference": "20230307-1843157",
+                        "endToEndId": "07-03-2023 18:42 1040000014272704",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "transactionAmount": {
+                            "amount": "-20",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Casino de Spa S.A via Nuvei",
+                        "creditorAccount": {
+                            "iban": "**18eaa896e92f6d7f3535a52**"
+                        },
+                        "remittanceInformationUnstructured": "1021172022 1040000014272704 Casino de Spa",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "c1061db1e0937f4bc399c6436ccebbf7"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102249995000001",
+                        "entryReference": "20230307-1770084",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "transactionAmount": {
+                            "amount": "-25",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**f996214474a16**",
+                        "creditorAccount": {
+                            "iban": "**5ddbe5e8c77d21**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "a8ebf0e5a6f174a31206ce662a7995d5"
+                    },
+                    {
+                        "transactionId": "WS84OZ/312886",
+                        "entryReference": "20230307-1751807",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "transactionAmount": {
+                            "amount": "-2.38",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    7.03.2023 17U48 KV005 BS077723 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "d4fe91d7686f06fead4603ca7b17b0aa"
+                    },
+                    {
+                        "transactionId": "3066Q1504123865S0WP",
+                        "entryReference": "20230307-1675078",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-07",
+                        "valueDate": "2023-03-07",
+                        "transactionAmount": {
+                            "amount": "50",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**a0570e4e**",
+                        "debtorAccount": {
+                            "iban": "**c8ed9ca7d20291**"
+                        },
+                        "remittanceInformationUnstructured": "**c8ed9ca7d20291**-**12cfa23d2c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "e15f077d21076cc63efd3de2f248aea7"
+                    },
+                    {
+                        "transactionId": "SCT2023030699128000000015058",
+                        "entryReference": "20230306-2092735",
+                        "endToEndId": "06-03-2023 20:21 1040000014252121",
+                        "bookingDate": "2023-03-06",
+                        "valueDate": "2023-03-06",
+                        "transactionAmount": {
+                            "amount": "-25",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Casino de Spa S.A via Nuvei",
+                        "creditorAccount": {
+                            "iban": "**18eaa896e92f6d7f3535a52**"
+                        },
+                        "remittanceInformationUnstructured": "1021151303 1040000014252121 Casino de Spa",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "ccaa555b3c59a40529e634d75ab440f9"
+                    },
+                    {
+                        "transactionId": "CPUDTQV3QBOVOOB918Z69JHYCK34",
+                        "entryReference": "20230306-1936026",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-06",
+                        "valueDate": "2023-03-06",
+                        "transactionAmount": {
+                            "amount": "26",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Mw BA **b4b9312**",
+                        "debtorAccount": {
+                            "iban": "**5ddbe5e8c77d21**"
+                        },
+                        "remittanceInformationUnstructured": "**5ddbe5e8c77d21**-Mw BA **b4b9312**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "c13846c11fe9a57517d0f66a6bbd2873"
+                    },
+                    {
+                        "transactionId": "SCT2023030699067000000004342",
+                        "entryReference": "20230306-14617",
+                        "endToEndId": "05-03-2023 21:57 0180306443058927",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "transactionAmount": {
+                            "amount": "-10",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**f**",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "MZCVJSQ75CGGX632YD5A 0180306443058927 W0F+0eWstzR+T/LjIjmthA",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "318cf6a7703d5a793b6cac6d74ac8936"
+                    },
+                    {
+                        "transactionId": "OBLE4H/552793",
+                        "entryReference": "20230305-3278815",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "transactionAmount": {
+                            "amount": "-4.09",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    5.03.2023 20U27 KV005 BS126151 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "e9eb1a70289c4e2411886e3d4bec84ae"
+                    },
+                    {
+                        "transactionId": "SCT2023030599038000000000179",
+                        "entryReference": "20230305-2475217",
+                        "endToEndId": "05-03-2023 12:32 1040000014218572",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "HC Online via Nuvei",
+                        "creditorAccount": {
+                            "iban": "**18eaa896e92f6d7f3535a52**"
+                        },
+                        "remittanceInformationUnstructured": "1021117555 1040000014218572 HC Online",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "17ebe5f33e97023c285738e3cd68d346"
+                    },
+                    {
+                        "transactionId": "SCT2023030599028000000002210",
+                        "entryReference": "20230305-185403",
+                        "endToEndId": "05-03-2023 01:51 1030000730814551",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "remittanceInformationUnstructured": "1118775941730652 1030000730814551 Bestelling klantnummer 111877594",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "042977dc01e9009158af972d1e77a648"
+                    },
+                    {
+                        "transactionId": "SCT2023030599028000000001682",
+                        "entryReference": "20230305-180214",
+                        "endToEndId": "05-03-2023 01:36 0180306403049368",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-05",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**f**",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "MB7S5R4893699VB2YD5A 0180306403049368 k0PcxhPBGvE0Wwef0lRUjQ",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "8b6b97d3f4215a08f805c80938c0d22f"
+                    },
+                    {
+                        "transactionId": "SCT2023030599024000000002319",
+                        "entryReference": "20230305-11379",
+                        "endToEndId": "04-03-2023 21:49 0180306343052983",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Betcity",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "DTT5LDJ7GRLZ2C32YFUB 0180306343052983 CkJfEwMSJG8/YlVHSof7hQ",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "ecfa4916857a7c0c10e598afcb603b06"
+                    },
+                    {
+                        "transactionId": "OBB8FV/356458",
+                        "entryReference": "20230304-2012266",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "transactionAmount": {
+                            "amount": "-10.47",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    4.03.2023 20U11 KV005 BS077723 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "2a74b27fa424dd7e69e752fc1c0a81d6"
+                    },
+                    {
+                        "transactionId": "OBAYOF/478424",
+                        "entryReference": "20230304-1970946",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "transactionAmount": {
+                            "amount": "-12.33",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    4.03.2023 19U38 KV005 BS077717 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "d62a60d069fafc28337b255078d788bd"
+                    },
+                    {
+                        "transactionId": "OBAY01/018320",
+                        "entryReference": "20230304-1968550",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "transactionAmount": {
+                            "amount": "-300",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "GELDMAAT BOTPLEIN 15  >ALMERE    4.03.2023 19U36 KV005 910676   MCC:6011                      NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-CWDL",
+                        "proprietaryBankTransactionCode": "FGEA",
+                        "internalTransactionId": "673788bf671ee3fbb4027da9bba18439"
+                    },
+                    {
+                        "transactionId": "SCT2023030499013000000011075",
+                        "entryReference": "20230304-1834703",
+                        "endToEndId": "04-03-2023 18:08 0180306336046411",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "One Casino Limited",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "MJZQLDHRPHKHBFG21GTIG 0180306336046411 ONE23030319",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "3f957f3aadc2103adaa9ea3e1621783c"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102132494400001",
+                        "entryReference": "20230304-1829196",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**7bad38eb020**",
+                        "creditorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "84ba0ef928996bc9384136305f2b0d87"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102105363300001",
+                        "entryReference": "20230304-201625",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-04",
+                        "valueDate": "2023-03-04",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**7bad38eb020**",
+                        "creditorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "c4ee8dba9e0259797bec0758186fd92c"
+                    },
+                    {
+                        "transactionId": "SCT2023030398972000000001549",
+                        "entryReference": "20230303-2504922",
+                        "endToEndId": "03-03-2023 20:37 1030000730460470",
+                        "bookingDate": "2023-03-03",
+                        "valueDate": "2023-03-03",
+                        "transactionAmount": {
+                            "amount": "-100",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "remittanceInformationUnstructured": "1118775941728828 1030000730460470 Bestelling klantnummer 111877594",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "f729711591f79870047c09a114192bcf"
+                    },
+                    {
+                        "transactionId": "SCT2023030398956000000002919",
+                        "entryReference": "20230303-1821628",
+                        "endToEndId": "03-03-2023 15:42 0180306231052319",
+                        "bookingDate": "2023-03-03",
+                        "valueDate": "2023-03-03",
+                        "transactionAmount": {
+                            "amount": "-100",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "One Casino Limited",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "VV7XL3JKQFRFX6321GTIG 0180306231052319 ONE22998303",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "0f582d7dd9c8f29e0fec0e42f3cc8837"
+                    },
+                    {
+                        "transactionId": "OATGLB/395112",
+                        "entryReference": "20230303-1605205",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-03",
+                        "valueDate": "2023-03-03",
+                        "transactionAmount": {
+                            "amount": "-11.47",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    3.03.2023 14U35 KV005 BS077723 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "20c922825201c9c2a02adea329027c02"
+                    },
+                    {
+                        "transactionId": "WQFFG1/706499",
+                        "entryReference": "20230303-1505365",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-03",
+                        "valueDate": "2023-03-03",
+                        "transactionAmount": {
+                            "amount": "-30.08",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "ESSO ALMERE           >ALMERE    3.03.2023 14U01 KV005 10036811 MCC:5541                      NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "37ae79c4b401156837167664b9b76747"
+                    },
+                    {
+                        "transactionId": "SCT2023030398926000000012099",
+                        "entryReference": "20230303-1144525",
+                        "endToEndId": "03-03-2023 12:17 1030000730286280",
+                        "bookingDate": "2023-03-03",
+                        "valueDate": "2023-03-03",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "NLO - TOTO iGaming",
+                        "creditorAccount": {
+                            "iban": "**90afbe4ceca564**"
+                        },
+                        "remittanceInformationUnstructured": "1118775941728181 1030000730286280 Bestelling klantnummer 111877594",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "b422a4a9a78339eb76a95513c49b3624"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102059107800001",
+                        "entryReference": "20230303-53596",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-200",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**7bad38eb020**",
+                        "creditorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "5028998fbf942ce0665a1020d222767a"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102054917100001",
+                        "entryReference": "20230302-3268812",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-600",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**c1df5ed4ed**",
+                        "creditorAccount": {
+                            "iban": "**3a7ba3508a38a3**"
+                        },
+                        "remittanceInformationUnstructured": "Pokoj,magazyn,pozyczone,mieszkaniePL",
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "c85fe83e64e2f832c26a1bcae8f1bc5e"
+                    },
+                    {
+                        "transactionId": "SCT2023030298896000000000787",
+                        "entryReference": "20230302-3125101",
+                        "endToEndId": "02-03-2023 19:33 1040000014146476",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-100",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "HC Online via Nuvei",
+                        "creditorAccount": {
+                            "iban": "**18eaa896e92f6d7f3535a52**"
+                        },
+                        "remittanceInformationUnstructured": "1021045030 1040000014146476 HC Online",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "05d049ac4004a1c6a564b771a6fd0db4"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102048795200001",
+                        "entryReference": "20230302-3091959",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-50",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**a0570e4e**",
+                        "creditorAccount": {
+                            "iban": "**c8ed9ca7d20291**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "f5f20aa557ff969d41c37bdda0915d39"
+                    },
+                    {
+                        "transactionId": "IPI1746655000102046151600001",
+                        "entryReference": "20230302-2999690",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-100",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**7bad38eb020**",
+                        "creditorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "bf3b4624670cd07bc18146df08c9af22"
+                    },
+                    {
+                        "transactionId": "OAJ1UC/474286",
+                        "entryReference": "20230302-2961702",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-7.25",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    2.03.2023 18U04 KV005 BS077722 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "4207d29dc5ca33f2742650bb9b795d65"
+                    },
+                    {
+                        "transactionId": "CPF1BABHDG5L3SGWWNPIGP0JTR5L",
+                        "entryReference": "20230302-2740319",
+                        "endToEndId": "20230302124933-37957/16",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "2022.59",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Respect Cleaning Service",
+                        "debtorAccount": {
+                            "iban": "**5111f66ed7a648**"
+                        },
+                        "remittanceInformationUnstructured": "/IVSB/RABONL2U/**56529430e95e75**/Salaris Februari 2023",
+                        "purposeCode": "SALA",
+                        "bankTransactionCode": "PMNT-RCDT-ESCT",
+                        "proprietaryBankTransactionCode": "FOVS",
+                        "internalTransactionId": "c726a11bd8f907497f5d95cb26a6f5de"
+                    },
+                    {
+                        "transactionId": "OAHKQ3/436072",
+                        "entryReference": "20230302-2715929",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-14.04",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE    2.03.2023 16U34 KV005 BS077724 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "431657d7b44ca24a22f4773e82d26763"
+                    },
+                    {
+                        "transactionId": "3061O4551172342S0WP",
+                        "entryReference": "20230302-2573507",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "20",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**a0570e4e**",
+                        "debtorAccount": {
+                            "iban": "**c8ed9ca7d20291**"
+                        },
+                        "remittanceInformationUnstructured": "**c8ed9ca7d20291**-**12cfa23d2c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "c978786bf29b9405f021382e7e557c84"
+                    },
+                    {
+                        "transactionId": "SCT2023030298834000000026339",
+                        "entryReference": "20230302-273712",
+                        "endToEndId": "02-03-2023 00:35 0140000747620008",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "-70",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Revolut Bank UAB",
+                        "creditorAccount": {
+                            "iban": "**9850b64f7197341489**"
+                        },
+                        "remittanceInformationUnstructured": "62E3N61 0140000747620008 www.revolut.com",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "58ebbf78f6834984fc120d9cdd07fde2"
+                    },
+                    {
+                        "transactionId": "3061X2354882178S0WP",
+                        "entryReference": "20230302-218728",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-02",
+                        "valueDate": "2023-03-02",
+                        "transactionAmount": {
+                            "amount": "80",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "B A **b4b9312**",
+                        "debtorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "remittanceInformationUnstructured": "**3bb593f52c83d4**-**843fda65c52c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "ffbfd854fe42c6402bf7bdb4c38fda52"
+                    },
+                    {
+                        "transactionId": " ",
+                        "entryReference": "20230305-304232",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-03-05",
+                        "valueDate": "2023-03-01",
+                        "transactionAmount": {
+                            "amount": "-2.84",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Rente over negatief saldo       tot 01-03-23                    min      1,40 niet in rekening  gebrachte rente                   3 dagen roodstand",
+                        "bankTransactionCode": "ACMT-MDOP-INTR",
+                        "proprietaryBankTransactionCode": "FAFB",
+                        "internalTransactionId": "fecfc1a62f35064c7f6da089b0906a4c"
+                    },
+                    {
+                        "transactionId": "SCT2023030198816000000008172",
+                        "entryReference": "20230301-4354602",
+                        "endToEndId": "01-03-2023 16:59 0140000747505262",
+                        "bookingDate": "2023-03-01",
+                        "valueDate": "2023-03-01",
+                        "transactionAmount": {
+                            "amount": "-10",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Revolut Bank UAB",
+                        "creditorAccount": {
+                            "iban": "**9850b64f7197341489**"
+                        },
+                        "remittanceInformationUnstructured": "5IRFFN5 0140000747505262 www.revolut.com",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "dfb0a677088ef499e36b7e1eea7cbf63"
+                    },
+                    {
+                        "transactionId": "3060P3630822371S0WP",
+                        "entryReference": "20230301-4184862",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-01",
+                        "valueDate": "2023-03-01",
+                        "transactionAmount": {
+                            "amount": "10",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "B A **b4b9312**",
+                        "debtorAccount": {
+                            "iban": "**3bb593f52c83d4**"
+                        },
+                        "remittanceInformationUnstructured": "**3bb593f52c83d4**-**843fda65c52c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "a50673c8bf678b5a15065a74a82fe0e0"
+                    },
+                    {
+                        "transactionId": "SCT2023030198783000000005555",
+                        "entryReference": "20230301-2072962",
+                        "endToEndId": "01-03-2023 11:53 0140000747432165",
+                        "bookingDate": "2023-03-01",
+                        "valueDate": "2023-03-01",
+                        "transactionAmount": {
+                            "amount": "-20",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Revolut Bank UAB",
+                        "creditorAccount": {
+                            "iban": "**9850b64f7197341489**"
+                        },
+                        "remittanceInformationUnstructured": "6BNCJQO 0140000747432165 www.revolut.com",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "002073d30117995d352b89779b77c21f"
+                    },
+                    {
+                        "transactionId": "3060J4513713833S0WP",
+                        "entryReference": "20230301-1716328",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-01",
+                        "valueDate": "2023-03-01",
+                        "transactionAmount": {
+                            "amount": "20",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**a0570e4e**",
+                        "debtorAccount": {
+                            "iban": "**c8ed9ca7d20291**"
+                        },
+                        "remittanceInformationUnstructured": "**c8ed9ca7d20291**-**12cfa23d2c6**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "64e8c04d9953ac821ddf39268c9a4080"
+                    },
+                    {
+                        "transactionId": "IPI1746655000101917961100001",
+                        "entryReference": "20230228-417541",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-28",
+                        "valueDate": "2023-02-28",
+                        "transactionAmount": {
+                            "amount": "-100",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Hr **1fd7ab402d**",
+                        "creditorAccount": {
+                            "iban": "**175c9244183705**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "0dd748e35c4f266c355eda16b9225fd9"
+                    },
+                    {
+                        "transactionId": "IPI1746655000101917121300001",
+                        "entryReference": "20230228-144274",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-28",
+                        "valueDate": "2023-02-28",
+                        "transactionAmount": {
+                            "amount": "-150",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Hr **1fd7ab402d**",
+                        "creditorAccount": {
+                            "iban": "**175c9244183705**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "dfdeae1e00f6676a2a213034a68fa03b"
+                    },
+                    {
+                        "transactionId": "CPU0BSONB995U9KP6FXLV0U8ZTQY",
+                        "entryReference": "20230227-2320292",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-27",
+                        "valueDate": "2023-02-27",
+                        "transactionAmount": {
+                            "amount": "150",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Hr A **602691e5**",
+                        "debtorAccount": {
+                            "iban": "**175c9244183705**"
+                        },
+                        "remittanceInformationUnstructured": "**175c9244183705**-Hr **1fd7ab402d**",
+                        "bankTransactionCode": "PMNT-RRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOS",
+                        "internalTransactionId": "19231c716e45826940bc23934599b6f8"
+                    },
+                    {
+                        "transactionId": "IPI1746655000101612522300001",
+                        "entryReference": "20230222-31705",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-21",
+                        "valueDate": "2023-02-21",
+                        "transactionAmount": {
+                            "amount": "-15",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**f2d99567c0ccc29**",
+                        "creditorAccount": {
+                            "iban": "**175c9244183705**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "f1a5dec04cb3465f88c7b1ecf1c14e4a"
+                    },
+                    {
+                        "transactionId": "IPI1746655000101572284800001",
+                        "entryReference": "20230221-195104",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-21",
+                        "valueDate": "2023-02-21",
+                        "transactionAmount": {
+                            "amount": "-100",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**f2d99567c0ccc29**",
+                        "creditorAccount": {
+                            "iban": "**175c9244183705**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "1e5dc3b539ad9955bd100f5cd6f4ec14"
+                    },
+                    {
+                        "transactionId": "WOD7FE/026314",
+                        "entryReference": "20230221-77081",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-2.2",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "TMC*P - ALMERE - 1029 >ALMERE   20.02.2023 23U23 KV005 C1PX0V   MCC:7523 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "51263eb76a6f555c9213993eb8c42dc7"
+                    },
+                    {
+                        "transactionId": "SCT2023022098225000000000405",
+                        "entryReference": "20230220-2633959",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-95",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "BONDORA AS",
+                        "creditorAccount": {
+                            "iban": "**fd84b6f48eb9f125**"
+                        },
+                        "remittanceInformationUnstructured": "15603531 **05071c764f28df23718ea74e0908**",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FNGI",
+                        "internalTransactionId": "90e75677083443becc1cdc83670b95d6"
+                    },
+                    {
+                        "transactionId": "SCT2023022098227000000012156",
+                        "entryReference": "20230220-2628974",
+                        "endToEndId": "20-02-2023 20:10 0051100256425308",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-127.45",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Cooperatie VGZ U.A.",
+                        "creditorAccount": {
+                            "iban": "**12b688d7805819**"
+                        },
+                        "remittanceInformationUnstructured": "1000010260546978 0051100256425308 **4c6e22** Unive-zorgverzekering",
+                        "purposeCode": "EPAY",
+                        "bankTransactionCode": "PMNT-ICDT-ESCT",
+                        "proprietaryBankTransactionCode": "FIDE",
+                        "internalTransactionId": "0d52962103835baed7940c4ea922230b"
+                    },
+                    {
+                        "transactionId": "25EGBT/011890",
+                        "entryReference": "20230220-2621585",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-26.6",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE   20.02.2023 20U04 KV005 BS077725 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "2162bafdc9c708f5f7980836f2a3b9db"
+                    },
+                    {
+                        "transactionId": "O79HMW/011496",
+                        "entryReference": "20230220-2616533",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-1.99",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE   20.02.2023 20U00 KV005 BS077716 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "bd1e16c7915c257e912fcb25b1105c18"
+                    },
+                    {
+                        "transactionId": "25EG6D/011350",
+                        "entryReference": "20230220-2614570",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-31.49",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "CCV*Weernekers AH 8580>ALMERE   20.02.2023 19U59 KV005 BS077725 MCC:5411 Contactloze betaling NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-POSD",
+                        "proprietaryBankTransactionCode": "FBEA",
+                        "internalTransactionId": "38011b17b27bd9aa7ff6634890254a3d"
+                    },
+                    {
+                        "transactionId": "O793QY/333513",
+                        "entryReference": "20230220-2556268",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-600",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "GELDMAAT ZUIDEINDE 13 >ALMERE   20.02.2023 19U21 KV005 810077   MCC:6011                      NLNEDERLAND",
+                        "bankTransactionCode": "PMNT-CCRD-CWDL",
+                        "proprietaryBankTransactionCode": "FGEA",
+                        "internalTransactionId": "cdf6e18fc4b4979ef2a5e58226dc11b4"
+                    },
+                    {
+                        "transactionId": "IPI1746655000101543698000001",
+                        "entryReference": "20230220-1655124",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-20",
+                        "valueDate": "2023-02-20",
+                        "transactionAmount": {
+                            "amount": "-1000",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**f2d99567c0ccc29**",
+                        "creditorAccount": {
+                            "iban": "**175c9244183705**"
+                        },
+                        "bankTransactionCode": "PMNT-IRCT-ESCT",
+                        "proprietaryBankTransactionCode": "FIOM",
+                        "internalTransactionId": "200704c26f9a602f83f550271c7f36d4"
+                    },
+                    {
+                        "transactionId": " ",
+                        "entryReference": "20230211-92668",
+                        "endToEndId": "NOT_PROVIDED",
+                        "bookingDate": "2023-02-10",
+                        "valueDate": "2023-02-10",
+                        "transactionAmount": {
+                            "amount": "0",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "VOOR **602691e5** A             IS EEN SNS WERELDPAS   (NR 0005)AANGEMAAKT. DEZE HEBBEN WE PER  POST TOEGESTUURD. ALS DE        BETAALPAS BINNEN 3 WERKDAGEN    NA ONTVANGST VAN DIT BERICHT    NOG NIET IS BEZORGD,            BEL DAN 030 - 633 30 00.",
+                        "bankTransactionCode": "6305",
+                        "proprietaryBankTransactionCode": "FNUL",
+                        "internalTransactionId": "a6ff74fd71b61909cd2910f6d8c87686"
+                    }
+                ],
+                "pending": []
+            },
+            "account": {
+                "resourceId": "2c372c6d-83c9-4dfc-972c-883eda62cfa2",
+                "iban": "**56529430e95e75**",
+                "currency": "EUR",
+                "ownerName": "**62aea99c74b**",
+                "name": "SNS Compleet",
+                "product": "SNS Compleet",
+                "bic": "SNSBNL2A",
+                "usage": "PRIV"
+            },
+            "balances": [
+                {
+                    "balanceAmount": {
+                        "amount": "-2094.13",
+                        "currency": "EUR"
+                    },
+                    "balanceType": "interimAvailable",
+                    "lastChangeDateTime": "2023-03-16T12:00:00Z"
+                }
+            ]
+        }
+    ]
+}

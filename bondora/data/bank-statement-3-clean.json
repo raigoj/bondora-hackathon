@@ -1,0 +1,1214 @@
+{
+    "institutionId": "ING_INGBNL2A",
+    "bankStatements": [
+        {
+            "accountId": "8ec30c94-6781-465e-9bc5-ed4bf068c234",
+            "transactions": {
+                "booked": [
+                    {
+                        "transactionId": "010304010708317970000000",
+                        "endToEndId": "18-03-2023 18:01 0140000751477229",
+                        "bookingDate": "2023-03-18",
+                        "transactionAmount": {
+                            "amount": "-725.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Bunq B.V.",
+                        "creditorAccount": {
+                            "iban": "**f1a69b3342ad39**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Bunq B.V.<br>Omschrijving: bhr17rkq<br>0140000751477229 **b873ea5f827aa0**<br>Cakemustha...<br>IBAN: **f1a69b3342ad39**<br>Kenmerk: 18-03-2023 18:01 0140000751477229<br>Valutadatum: 18-03-2023",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "6b5924cb8d69d1281dc4acdaea115b03"
+                    },
+                    {
+                        "transactionId": "010304010706735640000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-18",
+                        "transactionAmount": {
+                            "amount": "725.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**717** en of N**f8**",
+                        "debtorAccount": {
+                            "iban": "**3955a7d2289b52**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **717** en of *. ****<br>IBAN: **3955a7d2289b52**<br>Datum/Tijd: 18-03-2023 17:59:10<br>Valutadatum: 18-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "710ad931db23a2205b7ab18043bcd884"
+                    },
+                    {
+                        "transactionId": "010304010696269840000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-18",
+                        "transactionAmount": {
+                            "amount": "-400.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**717** en of N**f8**",
+                        "creditorAccount": {
+                            "iban": "**3955a7d2289b52**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **717** en of **721**<br>IBAN: **3955a7d2289b52**<br>Datum/Tijd: 18-03-2023 16:57:09<br>Valutadatum: 18-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "fb4afe7e3225c18827281bc4625fb4d8"
+                    },
+                    {
+                        "transactionId": "010304008457217270000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "400.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**c3f62c6**",
+                        "debtorAccount": {
+                            "iban": "**deb742d2c43dcb**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **c3f62c6**<br>IBAN: **deb742d2c43dcb**<br>Datum/Tijd: 16-03-2023 20:11:28<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "50704d320f4e90fbb0199c588e857424"
+                    },
+                    {
+                        "transactionId": "010304008412877680000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-400.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**6be45**",
+                        "creditorAccount": {
+                            "iban": "**deb742d2c43dcb**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **c3f62c6**<br>IBAN: **deb742d2c43dcb**<br>Datum/Tijd: 16-03-2023 14:23:59<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "df861a879574aa100bf31869e34e61ad"
+                    },
+                    {
+                        "transactionId": "010304008341402790000000",
+                        "endToEndId": "16-03-2023 00:43 0051100270418835",
+                        "bookingDate": "2023-03-16",
+                        "transactionAmount": {
+                            "amount": "-26.98",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "bol.com b.v.",
+                        "creditorAccount": {
+                            "iban": "**3a23309764360d**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: bol.com b.v.<br>Omschrijving: 1569160351<br>0051100270418835 bol.com ref<br>1569160351 bol.com<br>IBAN: **3a23309764360d**<br>Kenmerk: 16-03-2023 00:43 0051100270418835<br>Valutadatum: 16-03-2023",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "aaa5fc05a4dc3f4d7b3042839814028f"
+                    },
+                    {
+                        "transactionId": "010304007259142190000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-15",
+                        "transactionAmount": {
+                            "amount": "16.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**aab**",
+                        "debtorAccount": {
+                            "iban": "**4e6f2f6d6b3095**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **aab**<br>IBAN: **4e6f2f6d6b3095**<br>Datum/Tijd: 15-03-2023 11:43:47<br>Valutadatum: 15-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "79cfd818a763996b6d28f2d007c41ec2"
+                    },
+                    {
+                        "transactionId": "010304007259510500000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-15",
+                        "transactionAmount": {
+                            "amount": "440.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**aab**",
+                        "debtorAccount": {
+                            "iban": "**20952323286683**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **aab**<br>IBAN: **20952323286683**<br>Datum/Tijd: 15-03-2023 11:42:57<br>Valutadatum: 15-03-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "1e362f96f06df0ed8e24be9c388a7b35"
+                    },
+                    {
+                        "transactionId": "800011459678S69",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-03-01",
+                        "transactionAmount": {
+                            "amount": "-0.01",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Rente buiten limiet<br>Periode 01-02-2023 t/m 28-02-2023<br>Valutadatum: 01-03-2023",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "9dc2952b0b29a1434cd1c52bb07cd91a"
+                    },
+                    {
+                        "transactionId": "010303989692888420000000",
+                        "endToEndId": "97f7a5a45409425c8dc8996e0193cd9b",
+                        "bookingDate": "2023-02-26",
+                        "transactionAmount": {
+                            "amount": "-12.20",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 2026559065<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 01-01-2023 / 31-01-2023<br>Valutadatum: 26-02-2023",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "49c53d91f2476261df41ef361ad1eaef"
+                    },
+                    {
+                        "transactionId": "010303975655401880000000",
+                        "endToEndId": "Hhjsjj3838",
+                        "bookingDate": "2023-02-12",
+                        "transactionAmount": {
+                            "amount": "-1.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>Omschrijving: Kenmerk: dkeoeoek3838<br>IBAN: **251ce2b18e8c26**<br>Kenmerk: Hhjsjj3838<br>Datum/Tijd: 12-02-2023 01:52:07<br>Valutadatum: 12-02-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "487bcccd9ec961b6ae0f691292401e1c"
+                    },
+                    {
+                        "transactionId": "010303970990599110000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-07",
+                        "transactionAmount": {
+                            "amount": "-30.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 07-02-2023 06:03:55<br>Valutadatum: 07-02-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "b189fcad3c510dff3c984f292bcbed70"
+                    },
+                    {
+                        "transactionId": "010303970978145070000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-07",
+                        "transactionAmount": {
+                            "amount": "30.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**717** en of N**f8**",
+                        "debtorAccount": {
+                            "iban": "**3955a7d2289b52**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **717** en of N. ****<br>IBAN: **3955a7d2289b52**<br>Datum/Tijd: 07-02-2023 01:50:23<br>Valutadatum: 07-02-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "db248c9b80ecc6e0093dc43be7382e58"
+                    },
+                    {
+                        "transactionId": "800011459678S64",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-02-01",
+                        "transactionAmount": {
+                            "amount": "-0.23",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Rente buiten limiet<br>Periode 01-01-2023 t/m 31-01-2023<br>Valutadatum: 01-02-2023",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "103d48f8e697ade79f9f8ce37d26a700"
+                    },
+                    {
+                        "transactionId": "010303964171029660000000",
+                        "endToEndId": "2023012931",
+                        "bookingDate": "2023-02-01",
+                        "transactionAmount": {
+                            "amount": "-6.96",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Rompslomp.nl B.V.",
+                        "creditorAccount": {
+                            "iban": "**07c8611796b800**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Rompslomp.nl B.V.<br>Omschrijving: 2023012931: Rompslomp<br>PLUS maand abonnement (periode<br>05/01/2023 t/m 04/02/2023)<br>IBAN: **07c8611796b800**<br>Kenmerk: 2023012931<br>Machtiging ID: 2022086971<br>Incassant ID: NL14ZZZ632694300000<br>Doorlopende incasso<br>Valutadatum: 01-02-2023",
+                        "proprietaryBankTransactionCode": "Incasso",
+                        "internalTransactionId": "d0e660b38bcedfdfb11a6bf47f4d6db1"
+                    },
+                    {
+                        "transactionId": "010303961780122620000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-01-29",
+                        "transactionAmount": {
+                            "amount": "-1426.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Belastingdienst",
+                        "creditorAccount": {
+                            "iban": "**fb2c144dc43ead**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Belastingdienst<br>Omschrijving: 1227119845201270<br>IBAN: **fb2c144dc43ead**<br>Datum/Tijd: 29-01-2023 20:56:27<br>Valutadatum: 29-01-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "a6c5a2b5dcd23beb34e1cf1f634c5cb9"
+                    },
+                    {
+                        "transactionId": "010303961779784000000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-01-29",
+                        "transactionAmount": {
+                            "amount": "1426.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**717** en of N**f8**",
+                        "debtorAccount": {
+                            "iban": "**3955a7d2289b52**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **717** en of *. ****<br>IBAN: **3955a7d2289b52**<br>Datum/Tijd: 29-01-2023 20:53:00<br>Valutadatum: 29-01-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "7e4d48c4d4e70375301c80669ebd1687"
+                    },
+                    {
+                        "transactionId": "010303961779504850000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-01-29",
+                        "transactionAmount": {
+                            "amount": "-10.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**717** en of N**f8**",
+                        "creditorAccount": {
+                            "iban": "**3955a7d2289b52**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **717** en of **721**<br>IBAN: **3955a7d2289b52**<br>Datum/Tijd: 29-01-2023 20:49:49<br>Valutadatum: 29-01-2023",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "1c827631824a122b0a322b9c0a2bee7a"
+                    },
+                    {
+                        "transactionId": "010303961779583530000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-01-29",
+                        "transactionAmount": {
+                            "amount": "50.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "**717** en of N**f8**",
+                        "debtorAccount": {
+                            "iban": "**3955a7d2289b52**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **717** en of **721**<br>IBAN: **3955a7d2289b52**<br>Datum/Tijd: 29-01-2023 20:48:52<br>Valutadatum: 29-01-2023",
+                        "proprietaryBankTransactionCode": "Overschrijving",
+                        "internalTransactionId": "ee7fa315215b4030335f9964a2869fbe"
+                    },
+                    {
+                        "transactionId": "010303958173722030000000",
+                        "endToEndId": "51396fdf9ca44af6a05e74081bd932af",
+                        "bookingDate": "2023-01-26",
+                        "transactionAmount": {
+                            "amount": "-11.33",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 2011349060<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 01-12-2022 / 31-12-2022<br>Valutadatum: 26-01-2023",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "e2f25cbe0464c7c961e186a9513ebb14"
+                    },
+                    {
+                        "transactionId": "800011459678S57",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2023-01-01",
+                        "transactionAmount": {
+                            "amount": "-0.12",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Rente buiten limiet<br>Periode 01-12-2022 t/m 31-12-2022<br>Valutadatum: 01-01-2023",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "18dcf62b20aa42c05f1b145115633e8c"
+                    },
+                    {
+                        "transactionId": "010303927790529200000000",
+                        "endToEndId": "b42f0d306aa7455ebedc4e1a9d99942e",
+                        "bookingDate": "2022-12-26",
+                        "transactionAmount": {
+                            "amount": "-11.90",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 1996114507<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 01-11-2022 / 30-11-2022<br>Valutadatum: 26-12-2022",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "2003239d501839ab75280e5d4314653d"
+                    },
+                    {
+                        "transactionId": "800011459678S55",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-12-01",
+                        "transactionAmount": {
+                            "amount": "-0.02",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "Rente buiten limiet<br>Periode 01-11-2022 t/m 30-11-2022<br>Valutadatum: 01-12-2022",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "16b2d6e13cf4f023c8b15cb303c0378b"
+                    },
+                    {
+                        "transactionId": "010303897245969390000000",
+                        "endToEndId": "67ebde248a2f4d5c9f4753cadab92cf8",
+                        "bookingDate": "2022-11-26",
+                        "transactionAmount": {
+                            "amount": "-14.82",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 1980888532<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 01-10-2022 / 31-10-2022<br>Valutadatum: 26-11-2022",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "82e7e77cc132c6242b8ef5b22fc640a2"
+                    },
+                    {
+                        "transactionId": "010303891262061790000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-11-20",
+                        "transactionAmount": {
+                            "amount": "-20.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 20-11-2022 19:08:05<br>Valutadatum: 20-11-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "5d4ddfe3443c0e75ac5add8e7dcdd10a"
+                    },
+                    {
+                        "transactionId": "010303890130365560000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-11-19",
+                        "transactionAmount": {
+                            "amount": "-38.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**de69b596fb117f**",
+                        "creditorAccount": {
+                            "iban": "**8670c16f4ce416**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: CJIB Verkeersboete<br>Omschrijving: 8062542253729651<br>IBAN: **8670c16f4ce416**<br>Datum/Tijd: 19-11-2022 13:54:42<br>Valutadatum: 19-11-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "189e7e90422fc2adfe3155cc03963436"
+                    },
+                    {
+                        "transactionId": "010303872641932540000000",
+                        "endToEndId": "202210113165",
+                        "bookingDate": "2022-11-01",
+                        "transactionAmount": {
+                            "amount": "-6.05",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Rompslomp.nl B.V.",
+                        "creditorAccount": {
+                            "iban": "**07c8611796b800**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Rompslomp.nl B.V.<br>Omschrijving: 202210113165:<br>Rompslomp PLUS maand abonnement<br>(periode 05/10/2022 t/m 04/11/2022)<br>IBAN: **07c8611796b800**<br>Kenmerk: 202210113165<br>Machtiging ID: 2022086971<br>Incassant ID: NL14ZZZ632694300000<br>Doorlopende incasso<br>Valutadatum: 01-11-2022",
+                        "proprietaryBankTransactionCode": "Incasso",
+                        "internalTransactionId": "1e13333b48ad11f5f67ec860f8978c22"
+                    },
+                    {
+                        "transactionId": "010303868156609750000000",
+                        "endToEndId": "28-10-2022 21:39 0030012166191318",
+                        "bookingDate": "2022-10-28",
+                        "transactionAmount": {
+                            "amount": "-28.30",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**14b6971b**.nl via Takeaway.com",
+                        "creditorAccount": {
+                            "iban": "**c9be8a1b9e4611**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Thuisbezorgd.nl via Takeaway.com<br>Omschrijving: 7UPM7Y<br>0030012166191318 bestelling Sushiko<br>NL via<br>IBAN: **c9be8a1b9e4611**<br>Kenmerk: 28-10-2022 21:39 0030012166191318<br>Valutadatum: 28-10-2022",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "511b6a4c243bd889239541bd532a289a"
+                    },
+                    {
+                        "transactionId": "010303868129629560000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-28",
+                        "transactionAmount": {
+                            "amount": "-500.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 28-10-2022 17:39:53<br>Valutadatum: 28-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "431a6ad1ec9b47e73a2dffe23fc3ca4c"
+                    },
+                    {
+                        "transactionId": "010303868066487880000000",
+                        "endToEndId": "28-10-2022 12:11 0180230124043592",
+                        "bookingDate": "2022-10-28",
+                        "transactionAmount": {
+                            "amount": "-125.02",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Van der Valk Hotel Rotterdam - Blijdorp",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Van der Valk Hotel Rotterdam - Blijdorp<br>Omschrijving: K75HCF6TLB9Z2C321FI57<br>0180230124043592 GRP BLI-B15774502<br>IBAN: **13f2d228d223df**<br>Kenmerk: 28-10-2022 12:11 0180230124043592<br>Valutadatum: 28-10-2022",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "18016461d4bdd0c2ca835573e7c17317"
+                    },
+                    {
+                        "transactionId": "010303868046504460000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-28",
+                        "transactionAmount": {
+                            "amount": "-500.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 28-10-2022 10:18:54<br>Valutadatum: 28-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "0e4f8da6b3af726833a4a7a9629f8f5b"
+                    },
+                    {
+                        "transactionId": "010303866587014700000000",
+                        "endToEndId": "71833c7412244cd1b9ee33c90ff9aea0",
+                        "bookingDate": "2022-10-26",
+                        "transactionAmount": {
+                            "amount": "-12.16",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 1965664537<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 01-09-2022 / 30-09-2022<br>Valutadatum: 26-10-2022",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "bcce6b2c59afbb2004c6c8beba6528dd"
+                    },
+                    {
+                        "transactionId": "010303865518308750000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-25",
+                        "transactionAmount": {
+                            "amount": "-74.06",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Dienst Verkeersboete",
+                        "creditorAccount": {
+                            "iban": "**d915a211e6be**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Dienst Verkeersboete<br>Omschrijving: 290/0665/51115<br>IBAN: **d915a211e6be**<br>Datum/Tijd: 25-10-2022 15:30:53<br>Valutadatum: 25-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "270c763d590089412c4fd4943b7b5ac2"
+                    },
+                    {
+                        "transactionId": "010303865518306410000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-25",
+                        "transactionAmount": {
+                            "amount": "-259.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**de69b596fb117f**",
+                        "creditorAccount": {
+                            "iban": "**8670c16f4ce416**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: CJIB Verkeersboete<br>Omschrijving: 4062542253150780<br>IBAN: **8670c16f4ce416**<br>Datum/Tijd: 25-10-2022 15:28:43<br>Valutadatum: 25-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "c3eac465d9cdd6d7219da13181a4478c"
+                    },
+                    {
+                        "transactionId": "010303865495532450000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-25",
+                        "transactionAmount": {
+                            "amount": "629.20",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022100014<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 25-10-2022 13:52:36<br>Valutadatum: 25-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "a04f0863a815fec279673fc1eae5ffcc"
+                    },
+                    {
+                        "transactionId": "010303864349307810000000",
+                        "endToEndId": "24-10-2022 23:10 0030012126089266",
+                        "bookingDate": "2022-10-24",
+                        "transactionAmount": {
+                            "amount": "-26.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**14b6971b**.nl via Takeaway.com",
+                        "creditorAccount": {
+                            "iban": "**c9be8a1b9e4611**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Thuisbezorgd.nl via Takeaway.com<br>Omschrijving: TUX51Q<br>0030012126089266 bestelling HFC via<br>IBAN: **c9be8a1b9e4611**<br>Kenmerk: 24-10-2022 23:10 0030012126089266<br>Valutadatum: 24-10-2022",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "c72c1db106b9f5caeac561a6201f3f00"
+                    },
+                    {
+                        "transactionId": "010303864327319770000000",
+                        "endToEndId": "24-10-2022 18:26 0180229736049279",
+                        "bookingDate": "2022-10-24",
+                        "transactionAmount": {
+                            "amount": "-152.98",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Van der Valk Hotel Utrecht B.V.",
+                        "creditorAccount": {
+                            "iban": "**13f2d228d223df**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Van der Valk Hotel Utrecht B.V.<br>Omschrijving: QP6NQQB6B2KJFXB2JF24<br>0180229736049279 GRP<br>UTR-B15731723-1<br>IBAN: **13f2d228d223df**<br>Kenmerk: 24-10-2022 18:26 0180229736049279<br>Valutadatum: 24-10-2022",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "88e3e6d399947cdfe4ba92cba9854e8a"
+                    },
+                    {
+                        "transactionId": "010303864327421230000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-24",
+                        "transactionAmount": {
+                            "amount": "-10.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 24-10-2022 18:25:14<br>Valutadatum: 24-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "c5902e2e256d79adf92aeb9f1d2c8915"
+                    },
+                    {
+                        "transactionId": "010303863063366000000000",
+                        "endToEndId": "23-10-2022 05:32 0140000716994407",
+                        "bookingDate": "2022-10-23",
+                        "transactionAmount": {
+                            "amount": "-24.95",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "SP LOU AMSTERDAM",
+                        "creditorAccount": {
+                            "iban": "**4569cd46511691e8c4**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: SP LOU AMSTERDAM<br>Omschrijving: 3481R82<br>0140000716994407 SP LOU AMSTERDAM<br>IBAN: **4569cd46511691e8c4**<br>Kenmerk: 23-10-2022 05:32 0140000716994407<br>Valutadatum: 23-10-2022",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "e03919f55e5fc13d1b85b02824dea7c4"
+                    },
+                    {
+                        "transactionId": "010303861921136450000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-21",
+                        "transactionAmount": {
+                            "amount": "-500.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 21-10-2022 20:52:26<br>Valutadatum: 21-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "7d492a96ba3a1ad741d24783146ca033"
+                    },
+                    {
+                        "transactionId": "010303853988320460000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-15",
+                        "transactionAmount": {
+                            "amount": "871.20",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: 2022100013 week 41<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 15-10-2022 01:41:58<br>Valutadatum: 15-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "c2f842437d4c68c4b91542705b58c257"
+                    },
+                    {
+                        "transactionId": "010303853989622650000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-15",
+                        "transactionAmount": {
+                            "amount": "750.20",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: 2022100012<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 15-10-2022 01:40:22<br>Valutadatum: 15-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "084912606ff8acfea78f62b60f1494ec"
+                    },
+                    {
+                        "transactionId": "010303842506813280000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-04",
+                        "transactionAmount": {
+                            "amount": "-800.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 04-10-2022 11:01:40<br>Valutadatum: 04-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "0eb241f337b2bb33b12dfc5b8bc2a62e"
+                    },
+                    {
+                        "transactionId": "010303841454409900000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-10-03",
+                        "transactionAmount": {
+                            "amount": "750.20",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022090011<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 03-10-2022 23:43:40<br>Valutadatum: 03-10-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "6a6d44ad09eb86240a60f6ecad9109b7"
+                    },
+                    {
+                        "transactionId": "010303841252780010000000",
+                        "endToEndId": "20220999586",
+                        "bookingDate": "2022-10-03",
+                        "transactionAmount": {
+                            "amount": "-6.05",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Rompslomp.nl B.V.",
+                        "creditorAccount": {
+                            "iban": "**07c8611796b800**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Rompslomp.nl B.V.<br>Omschrijving: 20220999586:<br>Rompslomp PLUS maand abonnement<br>(periode 05/09/2022 t/m 04/10/2022)<br>IBAN: **07c8611796b800**<br>Kenmerk: 20220999586<br>Machtiging ID: 2022086971<br>Incassant ID: NL14ZZZ632694300000<br>Doorlopende incasso<br>Valutadatum: 03-10-2022",
+                        "proprietaryBankTransactionCode": "Incasso",
+                        "internalTransactionId": "6ebfc25f10002d4cedc03575dcd1183e"
+                    },
+                    {
+                        "transactionId": "010303834077019320000000",
+                        "endToEndId": "2168e26f6ab343bbaaa5644e5cf49fdb",
+                        "bookingDate": "2022-09-26",
+                        "transactionAmount": {
+                            "amount": "-13.38",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 1950382787<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 01-08-2022 / 31-08-2022<br>Valutadatum: 26-09-2022",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "94e4fb74e4773e4327f9fa2dd7a3396b"
+                    },
+                    {
+                        "transactionId": "010303822466656420000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-09-14",
+                        "transactionAmount": {
+                            "amount": "-500.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 14-09-2022 14:06:03<br>Valutadatum: 14-09-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "6c22bb2d7f3ba0e593176f27de52735b"
+                    },
+                    {
+                        "transactionId": "010303822462292990000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-09-14",
+                        "transactionAmount": {
+                            "amount": "-150.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 14-09-2022 13:32:00<br>Valutadatum: 14-09-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "91e62d0ef924a6c9598e53400cf692fd"
+                    },
+                    {
+                        "transactionId": "010303821317497310000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-09-13",
+                        "transactionAmount": {
+                            "amount": "-500.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 13-09-2022 13:26:57<br>Valutadatum: 13-09-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "817b42bf1577713e0322604ae082e839"
+                    },
+                    {
+                        "transactionId": "010303818957768370000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-09-10",
+                        "transactionAmount": {
+                            "amount": "-1000.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 10-09-2022 15:48:00<br>Valutadatum: 10-09-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "f947ed28c3b04f836b524cfec9487e63"
+                    },
+                    {
+                        "transactionId": "010303809671535990000000",
+                        "endToEndId": "20220886499",
+                        "bookingDate": "2022-09-01",
+                        "transactionAmount": {
+                            "amount": "-6.05",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Rompslomp.nl B.V.",
+                        "creditorAccount": {
+                            "iban": "**07c8611796b800**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Rompslomp.nl B.V.<br>Omschrijving: 20220886499:<br>Rompslomp PLUS maand abonnement<br>(periode 05/08/2022 t/m 04/09/2022)<br>IBAN: **07c8611796b800**<br>Kenmerk: 20220886499<br>Machtiging ID: 2022086971<br>Incassant ID: NL14ZZZ632694300000<br>Eerste incasso<br>Valutadatum: 01-09-2022",
+                        "proprietaryBankTransactionCode": "Incasso",
+                        "internalTransactionId": "ed20190bda732856dec4530ae5552cc6"
+                    },
+                    {
+                        "transactionId": "010303804939602460000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-08-27",
+                        "transactionAmount": {
+                            "amount": "-1000.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 27-08-2022 17:38:02<br>Valutadatum: 27-08-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "58ecd3fce551d0e77cf172a6930080c0"
+                    },
+                    {
+                        "transactionId": "010303804838119420000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-08-27",
+                        "transactionAmount": {
+                            "amount": "484.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022080009<br>week 34<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 27-08-2022 00:28:51<br>Valutadatum: 27-08-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "2cc5958905e147626eaf26f3ad438ae0"
+                    },
+                    {
+                        "transactionId": "010303803649190450000000",
+                        "endToEndId": "30207153ea65405c947efc9c989aa456",
+                        "bookingDate": "2022-08-26",
+                        "transactionAmount": {
+                            "amount": "-14.38",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 1935342768<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 01-07-2022 / 31-07-2022<br>Valutadatum: 26-08-2022",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "e949010efc3c24d8e348cb9411ce6d59"
+                    },
+                    {
+                        "transactionId": "010303800241852470000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-08-23",
+                        "transactionAmount": {
+                            "amount": "677.60",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022080008<br>week 33<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 23-08-2022 22:32:48<br>Valutadatum: 23-08-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "90155268269301c392afdc76604fa785"
+                    },
+                    {
+                        "transactionId": "010303789814505340000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-08-12",
+                        "transactionAmount": {
+                            "amount": "580.80",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022080007<br>week 32<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 12-08-2022 23:39:22<br>Valutadatum: 12-08-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "d195f2b70af7bb1c134f4019cb2cd6ca"
+                    },
+                    {
+                        "transactionId": "010303785192258080000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-08-08",
+                        "transactionAmount": {
+                            "amount": "701.80",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022080006<br>week 31<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 08-08-2022 13:37:38<br>Valutadatum: 08-08-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "4799fc89d79e8be04a67dfaff412dbc2"
+                    },
+                    {
+                        "transactionId": "010303783000769940000000",
+                        "endToEndId": "06-08-2022 16:11 1030000672541328",
+                        "bookingDate": "2022-08-06",
+                        "transactionAmount": {
+                            "amount": "-20.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "Nederlandse Loterij Organisatie BV",
+                        "creditorAccount": {
+                            "iban": "**99e084a8ae2302**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Nederlandse Loterij Organisatie BV<br>Omschrijving: 1141688881445741<br>1030000672541328 Bestelling<br>klantnummer 114168888<br>IBAN: **99e084a8ae2302**<br>Kenmerk: 06-08-2022 16:11 1030000672541328<br>Valutadatum: 06-08-2022",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "134b437fe206e1ec82bff63fa25276a9"
+                    },
+                    {
+                        "transactionId": "010303782895424880000000",
+                        "endToEndId": "05-08-2022 17:18 0020007001647466",
+                        "bookingDate": "2022-08-05",
+                        "transactionAmount": {
+                            "amount": "-23.97",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**** via **8**",
+                        "creditorAccount": {
+                            "iban": "**c56841daffb12e**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Etos via Adyen<br>Omschrijving: RR7RMBD2Q3DMQPB2<br>0020007001647466 004152958<br>IBAN: **c56841daffb12e**<br>Kenmerk: 05-08-2022 17:18 0020007001647466<br>Valutadatum: 05-08-2022",
+                        "proprietaryBankTransactionCode": "iDEAL",
+                        "internalTransactionId": "78ed153ed9cd10f39bff28da7ce78e16"
+                    },
+                    {
+                        "transactionId": "010303782881946880000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-08-05",
+                        "transactionAmount": {
+                            "amount": "-156.01",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**bdbc24f3e4a46fa8a**",
+                        "creditorAccount": {
+                            "iban": "**2e469b5a44347b**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: **afe916fb** Advocaat<br>Omschrijving: Declaratie nummer:<br>2221326<br>IBAN: **2e469b5a44347b**<br>Datum/Tijd: 05-08-2022 16:17:13<br>Valutadatum: 05-08-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "103abdf1cb5dee5b6f53653ef34e327f"
+                    },
+                    {
+                        "transactionId": "010303780634615580000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-08-03",
+                        "transactionAmount": {
+                            "amount": "-60.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 03-08-2022 20:50:00<br>Valutadatum: 03-08-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "ec60220940fa0e56ff767735d8e0aa4d"
+                    },
+                    {
+                        "transactionId": "010303777070662120000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-31",
+                        "transactionAmount": {
+                            "amount": "-305.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "***",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Kay<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 31-07-2022 11:11:43<br>Valutadatum: 31-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "83667758e2134323711ed076c7f47522"
+                    },
+                    {
+                        "transactionId": "010303777056725570000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-31",
+                        "transactionAmount": {
+                            "amount": "774.40",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022070005<br>week 30<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 31-07-2022 03:32:29<br>Valutadatum: 31-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "624e4a34049871ca4467e82d7a0a9efd"
+                    },
+                    {
+                        "transactionId": "010303773537879410000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-27",
+                        "transactionAmount": {
+                            "amount": "-55.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "****",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkay<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 27-07-2022 18:16:55<br>Valutadatum: 27-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "f297720539246c5298b5d4229eca5a7c"
+                    },
+                    {
+                        "transactionId": "010303773479042080000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-27",
+                        "transactionAmount": {
+                            "amount": "484.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022070004<br>week 29<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 27-07-2022 12:17:42<br>Valutadatum: 27-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "d8942a7fd203dd36865895212f450397"
+                    },
+                    {
+                        "transactionId": "010303772195263590000000",
+                        "endToEndId": "f38750f8b4ac4dfc94884c6a390dc6b1",
+                        "bookingDate": "2022-07-26",
+                        "transactionAmount": {
+                            "amount": "-10.90",
+                            "currency": "EUR"
+                        },
+                        "remittanceInformationUnstructured": "**8203bce60745d35a96adc67cdcba**<br>Factuurnr. 1920224391<br>Betreft IBAN: **a50cd96dbde8d5**<br>Periode: 02-06-2022 / 30-06-2022<br>Valutadatum: 26-07-2022",
+                        "proprietaryBankTransactionCode": "Diversen",
+                        "internalTransactionId": "9a4defb85cc7e170b4a0e92f60761711"
+                    },
+                    {
+                        "transactionId": "010303771174802460000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-25",
+                        "transactionAmount": {
+                            "amount": "-46.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "****",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkay<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 25-07-2022 22:05:14<br>Valutadatum: 25-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "64264e4528c250922bc071e48d4f6e53"
+                    },
+                    {
+                        "transactionId": "010303769733577540000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-23",
+                        "transactionAmount": {
+                            "amount": "-1210.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 23-07-2022 00:43:58<br>Valutadatum: 23-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "731b05a9b0a5027bee540ef71721b235"
+                    },
+                    {
+                        "transactionId": "010303764194517920000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-19",
+                        "transactionAmount": {
+                            "amount": "-300.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 19-07-2022 23:22:08<br>Valutadatum: 19-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "1f7c296e93e11fe7cad114d9195171b5"
+                    },
+                    {
+                        "transactionId": "010303763008269020000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-18",
+                        "transactionAmount": {
+                            "amount": "774.40",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022070003<br>week 28<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 18-07-2022 12:45:01<br>Valutadatum: 18-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "8fa2f1580c62793d1facae4a09fa0a52"
+                    },
+                    {
+                        "transactionId": "010303762870490650000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-17",
+                        "transactionAmount": {
+                            "amount": "-10.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 17-07-2022 05:33:59<br>Valutadatum: 17-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "e28fd9fb63ccbb6e512e4f2f91afed01"
+                    },
+                    {
+                        "transactionId": "010303762870490510000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-17",
+                        "transactionAmount": {
+                            "amount": "-10.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 17-07-2022 05:31:50<br>Valutadatum: 17-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "c56ab32109c65179e1a728cff4c25b19"
+                    },
+                    {
+                        "transactionId": "010303762870490410000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-17",
+                        "transactionAmount": {
+                            "amount": "-40.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**3**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Fkaya<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 17-07-2022 05:30:33<br>Valutadatum: 17-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "763afdc685caa05e86bc28bb31f98ca4"
+                    },
+                    {
+                        "transactionId": "010303758358102430000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-13",
+                        "transactionAmount": {
+                            "amount": "-200.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**65**",
+                        "creditorAccount": {
+                            "iban": "**251ce2b18e8c26**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: F.KAYA<br>IBAN: **251ce2b18e8c26**<br>Datum/Tijd: 13-07-2022 12:35:19<br>Valutadatum: 13-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "d141868e0652470f8bc7c02377842010"
+                    },
+                    {
+                        "transactionId": "010303757145017600000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-12",
+                        "transactionAmount": {
+                            "amount": "968.00",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022070002<br>week 27<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 12-07-2022 00:42:16<br>Valutadatum: 12-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "984e4d69cc08fae7b78c0f1d0da27001"
+                    },
+                    {
+                        "transactionId": "010303751458062930000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-06",
+                        "transactionAmount": {
+                            "amount": "-500.00",
+                            "currency": "EUR"
+                        },
+                        "creditorName": "**6f**",
+                        "creditorAccount": {
+                            "iban": "**3955a7d2289b52**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: A.KAYA<br>IBAN: **3955a7d2289b52**<br>Datum/Tijd: 06-07-2022 21:32:38<br>Valutadatum: 06-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "7b29cd89e217a54cf885a289b7cb2974"
+                    },
+                    {
+                        "transactionId": "010303748932588760000000",
+                        "endToEndId": "NOTPROVIDED",
+                        "bookingDate": "2022-07-03",
+                        "transactionAmount": {
+                            "amount": "774.40",
+                            "currency": "EUR"
+                        },
+                        "debtorName": "Job Select",
+                        "debtorAccount": {
+                            "iban": "**e7cae44d75d5c1**"
+                        },
+                        "remittanceInformationUnstructured": "Naam: Job Select<br>Omschrijving: Factuur 2022070001<br>week 26<br>IBAN: **e7cae44d75d5c1**<br>Datum/Tijd: 03-07-2022 01:33:31<br>Valutadatum: 03-07-2022",
+                        "proprietaryBankTransactionCode": "Online bankieren",
+                        "internalTransactionId": "6167c9d20c1d3501911d81baf5194ede"
+                    }
+                ],
+                "pending": []
+            },
+            "account": {
+                "resourceId": "a4773e83-0397-4483-8b8a-01c0c3c7e311",
+                "iban": "**a50cd96dbde8d5**",
+                "currency": "EUR",
+                "name": "**3**",
+                "product": "Zakelijke Rekening"
+            },
+            "balances": [
+                {
+                    "balanceAmount": {
+                        "amount": "17.37",
+                        "currency": "EUR"
+                    },
+                    "balanceType": "expected",
+                    "lastChangeDateTime": "2023-03-19T08:44:51.480Z"
+                }
+            ]
+        }
+    ]
+}
