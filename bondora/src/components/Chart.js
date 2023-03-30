@@ -16,18 +16,18 @@ function createData(time, amount) {
 }
 
 const data = [
-	createData("January", 0),
-	createData("February", 300),
-	createData("March", 600),
-	createData("April", 800),
-	createData("May", 1500),
-	createData("June", 2000),
-	createData("July", 2400),
-	createData("August", 2400),
-	createData("September", undefined),
-	createData("October", undefined),
-	createData("November", undefined),
-	createData("December", undefined),
+	createData("Jan", 40),
+	createData("Feb", 30),
+	createData("Mar", 60),
+	createData("Apr", 180),
+	createData("May", 140),
+	createData("Jun", 170),
+	createData("Jul", 10),
+	createData("Aug", 20),
+	createData("Sep", 10),
+	createData("Oct", 10),
+	createData("Nov", 10),
+	createData("Dec", 10),
 ];
 
 export default function Chart() {
@@ -35,7 +35,7 @@ export default function Chart() {
 
 	return (
 		<React.Fragment>
-			<Title>Today</Title>
+			<Title>Monthly spendings</Title>
 			<ResponsiveContainer>
 				<LineChart
 					data={data}
