@@ -8,51 +8,16 @@ import TableRow from "@mui/material/TableRow";
 import Title from "./Title";
 
 // Generate Order Data
-function createData(id, date, name, shipTo, paymentMethod, amount) {
-	return { id, date, name, shipTo, paymentMethod, amount };
+function createData(id, date, name, shipTo, category, amount) {
+	return { id, date, name, shipTo, category, amount };
 }
 
 const rows = [
-	createData(
-		0,
-		"16 Mar, 2019",
-		"Elvis Presley",
-		"Tupelo, MS",
-		"VISA ⠀•••• 3719",
-		312.44
-	),
-	createData(
-		1,
-		"16 Mar, 2019",
-		"Paul McCartney",
-		"London, UK",
-		"VISA ⠀•••• 2574",
-		866.99
-	),
-	createData(
-		2,
-		"16 Mar, 2019",
-		"Tom Scholz",
-		"Boston, MA",
-		"MC ⠀•••• 1253",
-		100.81
-	),
-	createData(
-		3,
-		"16 Mar, 2019",
-		"Michael Jackson",
-		"Gary, IN",
-		"AMEX ⠀•••• 2000",
-		654.39
-	),
-	createData(
-		4,
-		"15 Mar, 2019",
-		"Bruce Springsteen",
-		"Long Branch, NJ",
-		"VISA ⠀•••• 5919",
-		212.79
-	),
+	createData(0, "16 Mar, 2019", "Netflix", "Tupelo, MS", "Entertainment", 12),
+	createData(1, "16 Mar, 2019", "Spotify", "London, UK", "Music", 12),
+	createData(2, "16 Mar, 2019", "Hello Fresh", "Boston, MA", "Food", 100),
+	createData(3, "16 Mar, 2019", "Amazon Prime", "Gary, IN", "Shopping", 11),
+	createData(4, "15 Mar, 2019", "MyFitness", "Long Branch, NJ", "Fitness", 25),
 ];
 
 function preventDefault(event) {
@@ -62,14 +27,14 @@ function preventDefault(event) {
 export default function Orders() {
 	return (
 		<React.Fragment>
-			<Title>Recent Orders</Title>
+			<Title>On-going subscriptions</Title>
 			<Table size="small">
 				<TableHead>
 					<TableRow>
 						<TableCell>Date</TableCell>
 						<TableCell>Creditor name</TableCell>
-						{/* <TableCell>Ship To</TableCell>
-						<TableCell>Payment Method</TableCell> */}
+						{/* {/* <TableCell>Ship To</TableCell> */}
+						<TableCell>Category</TableCell>
 						<TableCell align="right">Sale Amount</TableCell>
 					</TableRow>
 				</TableHead>
@@ -78,8 +43,8 @@ export default function Orders() {
 						<TableRow key={row.id}>
 							<TableCell>{row.date}</TableCell>
 							<TableCell>{row.name}</TableCell>
-							{/* <TableCell>{row.shipTo}</TableCell>
-							<TableCell>{row.paymentMethod}</TableCell> */}
+							{/* <TableCell>{row.shipTo}</TableCell>*/}
+							<TableCell>{row.category}</TableCell>
 							<TableCell align="right">{`$${row.amount}`}</TableCell>
 						</TableRow>
 					))}
