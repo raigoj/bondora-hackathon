@@ -46,20 +46,19 @@ export default function SignIn() {
   const handleSubmit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    //console.log({
+    
     const email = data.get('email');
     console.log("type of: ", typeof email)
-      //password: data.get('password'),
-    //});
+     
     var keys = Object.keys(USERS); //get keys from object as an array
 
     
     for (var i = 0; i < keys.length; i++) {
-      if (email == keys[i])
+      if (email === keys[i])
       console.log('match: ', USERS[keys[i]])
     }
-    //const found = USERS.match(email);
-    //console.log("data:", found)
+    
+    window.location.href = '/home'
   };
 
   return (
