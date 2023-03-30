@@ -54,11 +54,13 @@ export default function SignIn() {
 
     
     for (var i = 0; i < keys.length; i++) {
-      if (email === keys[i])
+      if (email === keys[i]) {
       console.log('match: ', USERS[keys[i]])
+      window.location.href = '/home'
+      }
     }
     
-    window.location.href = '/home'
+    //window.location.href = '/home'
   };
 
   return (
