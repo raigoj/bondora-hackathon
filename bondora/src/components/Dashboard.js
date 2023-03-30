@@ -21,6 +21,7 @@ import { mainListItems, secondaryListItems, thirdListItems } from "./listItems";
 import Chart from "./Chart";
 import Deposits from "./Deposits";
 import Orders from "./Orders";
+import dataSorter from "../utils/dataSorter";
 
 function Copyright(props) {
 	return (
@@ -211,5 +212,6 @@ function DashboardContent() {
 }
 
 export default function Dashboard() {
+	dataSorter()
 	return <DashboardContent />;
 }

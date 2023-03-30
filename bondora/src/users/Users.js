@@ -1,5 +1,3 @@
-
-
 const USERS = {
     "Annika": "bank-statement-1-clean",
     "Raigo": "bank-statement-2-clean",
