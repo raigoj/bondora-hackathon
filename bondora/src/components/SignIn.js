@@ -13,6 +13,7 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
+//import USERS from '../users/Users';
 
 function Copyright(props) {
   return (
@@ -30,13 +31,35 @@ function Copyright(props) {
 const theme = createTheme();
 
 export default function SignIn() {
+  const USERS = {
+    "Annika": "bank-statement-1-clean",
+    "Raigo": "bank-statement-2-clean",
+    "Rait": "bank-statement-3-clean",
+    "Lauri": "bank-statement-4-clean",
+    "Jaagup": "bank-statement-5-clean",
+    "Juhan": "bank-statement-6-clean",
+    "Samuel": "bank-statement-7-clean",
+    "Karl": "bank-statement-8-clean",
+    "Stefan": "bank-statement-9-clean",
+    "Katariina": "bank-statement-10-clean",
+  };
   const handleSubmit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    console.log({
-      email: data.get('email'),
+    //console.log({
+    const email = data.get('email');
+    console.log("type of: ", typeof email)
       //password: data.get('password'),
-    });
+    //});
+    var keys = Object.keys(USERS); //get keys from object as an array
+
+    
+    for (var i = 0; i < keys.length; i++) {
+      if (email == keys[i])
+      console.log('match: ', USERS[keys[i]])
+    }
+    //const found = USERS.match(email);
+    //console.log("data:", found)
   };
 
   return (
@@ -65,12 +88,9 @@ export default function SignIn() {
               id="email"
               label="Username"
               name="email"
-              autoComplete="email"
-              autoFocus
-            />
+              />
             <TextField
               margin="normal"
-              required
               fullWidth
               name="password"
               label="Password"
